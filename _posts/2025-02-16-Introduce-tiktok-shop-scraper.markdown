@@ -14,7 +14,7 @@ from TikTok Shop, empowering you to make informed decisions.
 
 ### What is the TikTok Shop Scraper?
 
-The TikTok Shop Scraper is an actor available on the Apify platform. It allows you to scrape publicly accessible data
+The **[TikTok Shop Scraper](https://apify.com/novi/tiktok-shop-scraper)** is an actor available on the Apify platform. It allows you to scrape publicly accessible data
 from TikTok Shop without needing an official API. This includes information about products, trends, and sellers, giving
 you valuable insights into the TikTok Shop ecosystem.
 
