@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Web Scraping Challenges and Solutions"
-date: 2025-02-18 01:05:30 +0700
+date: 2025-02-19 01:05:30 +0700
 categories: [ tiktok, scraper ]
 ---
 
