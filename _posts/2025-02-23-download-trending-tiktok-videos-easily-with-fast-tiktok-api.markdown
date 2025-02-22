@@ -18,7 +18,7 @@ In this guide, we will use this API to:
 * Get a list of trending TikTok videos.
 * Download these videos to your computer.
 
-Let's get started\!
+Let's get started!
 
 ## What You Need
 
@@ -231,8 +231,8 @@ To change these settings, simply edit the values in the `download_tiktok_trends.
 
 ## Conclusion
 
-Congratulations\! You have successfully used the **Fast TikTok API** and Javascript code to download trending TikTok videos. This is a simple way to explore what's currently popular on TikTok.
+Congratulations! You have successfully used the **Fast TikTok API** and Javascript code to download trending TikTok videos. This is a simple way to explore what's currently popular on TikTok.
 
-Remember to check out the [Fast TikTok API page on Apify](https://apify.com/novi/fast-tiktok-api) to learn more about its features and other things you can do with it.  Apify has many other useful tools for web data extraction, so explore their platform to see what else you can discover\!
+Remember to check out the [Fast TikTok API page on Apify](https://apify.com/novi/fast-tiktok-api) to learn more about its features and other things you can do with it.  Apify has many other useful tools for web data extraction, so explore their platform to see what else you can discover!
 
-Now you can use these downloaded videos for your projects, learning, or just for fun.  Happy downloading\!
+Now you can use these downloaded videos for your projects, learning, or just for fun.  Happy downloading!
