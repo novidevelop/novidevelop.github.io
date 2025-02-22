@@ -37,7 +37,7 @@ Follow these steps to download trending TikTok videos:
 
 1.  Go to the [Apify website](https://apify.com/) and sign up for an account or log in if you already have one.
 2.  Once you are logged in, go to your **Account Settings**.
-3.  Find your **API token**. It's usually under a section called "Integrations" or "API Access". Copy this token.  We will need it in our code.
+3.  Find your **API token**. It's usually under a section called "Integrations". Copy a token at "Personal API tokens".  We will need it in our code.
 
 **Step 2: Install Node.js and npm**
 
