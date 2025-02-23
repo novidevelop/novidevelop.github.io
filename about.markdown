@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Novi Develop
+title: About
 permalink: /about/
 ---
 
