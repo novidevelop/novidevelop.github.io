@@ -36,7 +36,7 @@ Follow these steps to download TikTok videos by hashtag:
 3. Find your API token on the [Integrations](https://console.apify.com/settings/integrations) page. Keep this token
    secure, as you'll need it to access the Apify API.
 
-![Get Personal API Token]({{ site.baseurl }}/images/IMG_20231109_171049.jpg)
+![Get Personal API Token]({{ site.baseurl }}/images/get-personal-api-token.jpg)
 
 ### Step 2: Install Apify Client
 
