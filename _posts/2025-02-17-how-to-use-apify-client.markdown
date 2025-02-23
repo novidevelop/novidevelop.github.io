@@ -35,6 +35,8 @@ import apify
 client = apify.Client(token="YOUR_API_TOKEN")
 ```
 
+![Get Personal API Token]({{ site.baseurl }}/images/get-personal-api-token.jpg)
+
 ### Running Actors
 
 Actors are the core building blocks of Apify, representing cloud programs that can perform various web automation tasks.

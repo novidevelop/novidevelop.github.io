@@ -19,6 +19,8 @@ Before you begin, ensure you have the following:
 * **Apify Account:** You'll need an Apify account to access the TikTok Search API. Sign up for a free account at [Apify](https://apify.com/).
 * **Apify API Token:** Once you have an Apify account, you'll need to obtain your API token. You can find it in the [Apify Console](https://www.google.com/url?sa=E&source=gmail&q=https://console.apify.com/) under "Integrations."
 
+![Get Personal API Token]({{ site.baseurl }}/images/get-personal-api-token.jpg)
+
 ## Step-by-Step Guide
 
 Follow these steps to download TikTok videos using the provided code and the Apify TikTok Search API.

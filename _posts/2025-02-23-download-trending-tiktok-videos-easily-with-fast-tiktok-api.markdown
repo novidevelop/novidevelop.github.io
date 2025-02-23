@@ -39,6 +39,8 @@ Follow these steps to download trending TikTok videos:
 2.  Once you are logged in, go to your **Account Settings**.
 3.  Find your **API token**. It's usually under a section called "Integrations". Copy a token at "Personal API tokens".  We will need it in our code.
 
+![Get Personal API Token]({{ site.baseurl }}/images/get-personal-api-token.jpg)
+
 **Step 2: Install Node.js and npm**
 
 If you don't have Node.js and npm installed, follow these steps:
