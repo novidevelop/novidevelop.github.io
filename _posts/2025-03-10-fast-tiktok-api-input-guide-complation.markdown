@@ -21,58 +21,58 @@ find practical examples, tips, and explanations to help you effectively gather t
     * [6. VIDEO](#6-video)
     * [7. COMMENT](#7-comment)
 
-## Introduction {#introduction}
+## Introduction
 
 The Fast TikTok API provides several different "scraping types," each designed to access different kinds of data on
 TikTok. Understanding how to use each type, and the specific input fields they require, is key to successfully
 collecting the data you're after. These tutorials break down each type with clear explanations and practical examples.
 
-## Tutorials {#tutorials}
+## Tutorials
 
 Below is a list of all available tutorials. Each guide focuses on a single scraping type:
 
-### 1. SEARCH {#1-search}
+### 1. SEARCH
 
 * **Purpose:** Search for videos based on keywords, region, sort order, and publication time. This is the most flexible
   scraping type.
 * **Guide:** [Tutorial: A guide to Fast TikTok API's SEARCH Input]({{ site.baseurl
   }}/tiktok/data-extraction/tutorial/2025/03/10/a-guide-to-fast-tiktok-api-input.html)
 
-### 2. TREND {#2-trend}
+### 2. TREND
 
 * **Purpose:** Discover trending videos within a specific region. Ideal for identifying what's currently popular.
 * **Guide:** [Tutorial: A Guide to Fast TikTok API's TREND Input]({{ site.baseurl
   }}/tiktok/data-extraction/tutorial/trends/2025/03/10/fast-tiktok-api-trend-scraping-guide.html)
 
-### 3. HASHTAG {#3-hashtag}
+### 3. HASHTAG
 
 * **Purpose:** Retrieve videos associated with a particular hashtag. Useful for niche content discovery, campaign
   tracking, and community analysis.
 * **Guide:** [Tutorial: Mastering Hashtag Scraping with Fast TikTok API]({{ site.baseurl
   }}/tiktok/data-extraction/tutorial/hashtag/2025/03/10/fast-tiktok-api-hashtag-scraping-tutorial.html)
 
-### 4. USER {#4-user}
+### 4. USER
 
 * **Purpose:** Gather data about a specific TikTok user's profile and videos. Great for competitor analysis and
   influencer identification.
 * **Guide:** [Tutorial: Scraping User Videos with Fast TikTok API]({{ site.baseurl
   }}/tiktok/data-extraction/tutorial/user-profile/2025/03/10/fast-tiktok-api-user-profile-scraping.html)
 
-### 5. MUSIC {#5-music}
+### 5. MUSIC
 
 * **Purpose:** Find videos that use a specific song or sound. Excellent for identifying trends and understanding how
   music contributes to viral content.
 * **Guide:** [Tutorial: Extracting TikTok Videos by Music with Fast TikTok API]({{ site.baseurl
   }}/tiktok/data-extraction/tutorial/music/sound/2025/03/10/fast-tiktok-api-music-sound-scraping.html)
 
-### 6. VIDEO {#6-video}
+### 6. VIDEO
 
 * **Purpose:** Retrieve data for *specific* TikTok videos, given their URLs or IDs. Use this when you have a predefined
   list of videos to analyze.
 * **Guide:** [Tutorial: Scraping Specific TikTok Videos with Fast TikTok API]({{ site.baseurl
   }}/tiktok/data-extraction/tutorial/video/2025/03/10/fast-tiktok-api-video-scraping-by-url.html)
 
-### 7. COMMENT {#7-comment}
+### 7. COMMENT
 
 * **Purpose:** Collect comments from a specific TikTok video. Invaluable for sentiment analysis, audience feedback, and
   understanding community engagement.
