@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tutorial: Scraping User Profiles with Fast TikTok API"
+title: "Tutorial: Scraping User Videos with Fast TikTok API"
 date: 2025-03-10 01:20:00 +0000
 categories: [ tiktok, data-extraction, tutorial, user-profile ]
 ---
