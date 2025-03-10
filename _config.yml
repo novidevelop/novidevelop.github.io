@@ -42,6 +42,9 @@ analytics:
 site:
   bing_site_verification: "F9CBB2877E98EA5A65A48CFBA9CC8B25"
 
+webmaster_verifications:
+  bing: "F9CBB2877E98EA5A65A48CFBA9CC8B25"
+
 # Build settings
 theme: minima
 plugins:
