@@ -20,7 +20,6 @@ find practical examples, tips, and explanations to help you effectively gather t
     * [5. MUSIC](#5-music)
     * [6. VIDEO](#6-video)
     * [7. COMMENT](#7-comment)
-* [Official Documentation](#official-documentation)
 
 ## Introduction {#introduction}
 
