@@ -27,6 +27,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://novidevelop.github.io"
 domain: "novidevelop.github.io"
 
+
+google_analytics: G-E4MW9GXSJ9
+enableDNT: "false"
+
 analytics:
   provider: "google-gtag"
   google:
