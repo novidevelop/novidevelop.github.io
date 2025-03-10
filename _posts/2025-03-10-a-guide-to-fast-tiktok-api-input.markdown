@@ -76,7 +76,7 @@ Once you've chosen `SEARCH` from the "Choose Scrapping Type" dropdown, you'll be
 
 Let's walk through some real-world examples, and I'll share some things I've learned along the way:
 
-**Example 1:  Find 30 of the most relevant "data science" videos in the US.**
+**Example 1:  Find 20 of the most relevant "viral" videos in the UK.**
 
 This is a pretty standard search. Here's how you'd set it up:
 
