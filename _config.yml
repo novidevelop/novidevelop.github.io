@@ -39,6 +39,9 @@ analytics:
 #twitter_username: jekyllrb
 #github_username: jekyll
 
+webmaster_verifications:
+  bing: F9CBB2877E98EA5A65A48CFBA9CC8B25
+
 # Build settings
 theme: minima
 plugins:
