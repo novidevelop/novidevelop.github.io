@@ -72,11 +72,23 @@ Once you've chosen `SEARCH` from the "Choose Scrapping Type" dropdown, you'll be
 9. **`urls` URLS/IDs of videos.**:  This is only used when you're scraping specific videos (`VIDEO` type), so you can
    ignore it for `SEARCH`.
 
+**NEW! Download Options (Under "Download Option ⇣")**
+
+These options let you download content directly, saving you extra steps!  Expand the "Download Option ⇣" section to see
+them:
+
+* **`isDownloadVideoCover` (Download Cover Image):** Check this box to download the cover image (thumbnail) for each
+  video.
+* **`isDownloadVideo` (Download Video (no watermark)):** Check this box to download the video itself, *without* the
+  TikTok watermark.
+
+**Important Note:** Downloading media will increase the time and resources required for the API calls.
+
 ## Putting it All Together: Example Scenarios (and Some Gotchas)
 
 Let's walk through some real-world examples, and I'll share some things I've learned along the way:
 
-**Example 1:  Find 20 of the most relevant "viral" videos in the UK.**
+**Example 1:  Find 20 of the most relevant "viral" videos in the UK and download videos**
 
 This is a pretty standard search. Here's how you'd set it up:
 
@@ -87,8 +99,10 @@ This is a pretty standard search. Here's how you'd set it up:
 * `isUnlimited`: `false`
 * `sortType`: `0` (Relevance)
 * `publishTime`: `ALL_TIME`
+* `isDownloadVideoCover`: `false`
+* `isDownloadVideo`: `true`
 
-**Example 2: Find the 50 most-liked "funny cat" videos from the UK, published in the last week.**
+**Example 2: Find the 50 most-liked "funny cat" videos from the UK, published in the last week, and download covers**
 
 This one's a bit more specific, targeting a niche and a time frame:
 
@@ -99,6 +113,8 @@ This one's a bit more specific, targeting a niche and a time frame:
 * `isUnlimited`: `false`
 * `sortType`: `1` (Most Liked)
 * `publishTime`: `WEEK`
+* `isDownloadVideoCover`: `true`
+* `isDownloadVideo`: `false`
 
 **Example 3: Get all "trending now" videos from any region, sorted by most recent. (The "Firehose" Approach)**
 
