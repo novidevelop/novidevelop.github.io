@@ -8,7 +8,9 @@ categories: [ tiktok, api, tutorial, data-extraction, guide ]
 The Fast TikTok API is a powerful tool for extracting data from TikTok in a structured way. This page serves as a
 comprehensive index to a series of detailed tutorials, each covering a specific scraping type offered by the API. You'll
 find practical examples, tips, and explanations to help you effectively gather the TikTok data you need.
-Check it out: [The Fast TikTok API](https://apify.com/novi/fast-tiktok-api)
+Check it out: [The Fast TikTok API](https://apify.com/novi/fast-tiktok-api).
+
+![Fast TikTok API]({{ site.baseurl }}/images/fast-tiktok-api.png)
 
 ## Table of Contents
 
