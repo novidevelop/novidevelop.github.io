@@ -31,7 +31,7 @@ domain: "novidevelop.github.io"
 #github_username: jekyll
 
 site:
-  google_analytics: "G-E4MW9GXSJ9"
+  google_analytics: G-E4MW9GXSJ9
   bing_site_verification: "F9CBB2877E98EA5A65A48CFBA9CC8B25"
 
 webmaster_verifications:
