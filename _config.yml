@@ -38,7 +38,8 @@ webmaster_verifications:
   bing: "F9CBB2877E98EA5A65A48CFBA9CC8B25"
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
 
