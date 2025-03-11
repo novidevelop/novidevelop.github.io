@@ -33,7 +33,7 @@ options:
 ### 1. Using the Fast TikTok API (Best for Bulk Downloads and Automation)
 
 If you need to download multiple videos, or you want to automate the process,
-the [Fast TikTok API](https://novidevelop.github.io/tiktok/) is the most powerful solution. It's a paid service, but
+the [Fast TikTok API](https://apify.com/novi/fast-tiktok-api) is the most powerful solution. It's a paid service, but
 it's incredibly efficient and reliable. Here's how it works:
 
 * **What it is:** The Fast TikTok API is a tool that lets you interact with TikTok programmatically. Think of it as a
