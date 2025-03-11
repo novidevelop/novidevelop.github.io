@@ -27,13 +27,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://novidevelop.github.io"
 domain: "novidevelop.github.io"
 
-
-google_analytics: G-E4MW9GXSJ9
-
 #twitter_username: jekyllrb
 #github_username: jekyll
 
 site:
+  google_analytics: "G-E4MW9GXSJ9"
   bing_site_verification: "F9CBB2877E98EA5A65A48CFBA9CC8B25"
 
 webmaster_verifications:
