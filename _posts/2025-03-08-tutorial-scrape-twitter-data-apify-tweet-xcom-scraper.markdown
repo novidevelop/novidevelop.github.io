@@ -14,7 +14,7 @@ Apify's **Tweet X.com Scraper** is a powerful tool that allows you to extract la
 Twitter (X) for analysis, research, and competitive intelligence. It's designed for *historical data*, not real-time
 monitoring.
 
-**Link to Tweet X.com Scraper:** *https://apify.com/xtdata/twitter-x-scraper*
+**Link to Tweet X.com Scraper:** [https://apify.com/xtdata/twitter-x-scraper](https://apify.com/xtdata/twitter-x-scraper).
 
 ## Prerequisites
 
@@ -165,3 +165,13 @@ key settings:
 You've now learned how to use Apify's Tweet X.com Scraper to extract valuable data from Twitter. Experiment with
 different input configurations and advanced search operators to get the most out of this powerful tool. Happy scraping!
 Remember to check the official Actor documentation on Apify for the most up-to-date information and features.
+
+Start scraping Twitter data today!  This Actor provides a powerful, flexible, and cost-effective solution for all your
+Twitter data extraction needs.
+
+| [🎹️ Fast TikTok API](https://apify.com/novi/fast-tiktok-api)     | [📹️ TikTok Trend API](https://apify.com/novi/tiktok-trend-api)         | [🔍️ TikTok Search API](https://apify.com/novi/tiktok-search-api)  |
+|:------------------------------------------------------------------|:------------------------------------------------------------------------|:-------------------------------------------------------------------|
+| [🧛️ TikTok User API](https://apify.com/novi/tiktok-user-api)     | [🧛️ TikTok User Info API](https://apify.com/novi/tiktok-user-info-api) | [#️ TikTok Hashtag API](https://apify.com/novi/tiktok-hashtag-api) |
+| [🛍️ TikTok Shop API](https://apify.com/novi/tiktok-shop-scraper) | [👤️ TikTok Followers API](https://apify.com/novi/tiktok-followers-api) |                                                                    |
+
+

@@ -8,6 +8,7 @@ categories: [ tiktok, data-extraction, tutorial, video ]
 The Fast TikTok API's `VIDEO` scraping type is designed for retrieving data about *specific* TikTok videos. Unlike the
 other scraping types that search or browse, this type targets individual videos based on their URLs or IDs. This is
 perfect for analyzing particular pieces of content, tracking their performance, or gathering data for research.
+More details about [The Fast TikTok API](https://apify.com/novi/fast-tiktok-api)
 
 ![Fast TikTok API]({{ site.baseurl }}/images/fast-tiktok-api.png)
 
@@ -45,7 +46,7 @@ Notice that `region`, `keyword`, `sortType`, `publishTime`, `url` are *not* used
 
 * `type`: `VIDEO`
 * `urls`:
- `["https://www.tiktok.com/@natgeo/video/7479779154083269930", "https://www.tiktok.com/@natgeo/video/7479447979548658990", "7479118671969930538"]`
+  `["https://www.tiktok.com/@natgeo/video/7479779154083269930", "https://www.tiktok.com/@natgeo/video/7479447979548658990", "7479118671969930538"]`
 
 **Example 2:  Retrieve data for a single video using its ID.**
 

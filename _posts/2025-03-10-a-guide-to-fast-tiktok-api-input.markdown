@@ -142,3 +142,10 @@ API, including downloading videos (without watermarks!), scraping user profiles,
 posts if there's interest! Let me know what you'd like to see. And definitely explore
 the [official tutorial](https://novidevelop.github.io/tiktok/scraper/2025/02/24/apify-tiktok-search-api-download-videos-by-keyword.html) –
 it's a great resource. Happy scraping!
+
+| [🎹️ Fast TikTok API](https://apify.com/novi/fast-tiktok-api)     | [📹️ TikTok Trend API](https://apify.com/novi/tiktok-trend-api)         | [🔍️ TikTok Search API](https://apify.com/novi/tiktok-search-api)  |
+|:------------------------------------------------------------------|:------------------------------------------------------------------------|:-------------------------------------------------------------------|
+| [🧛️ TikTok User API](https://apify.com/novi/tiktok-user-api)     | [🧛️ TikTok User Info API](https://apify.com/novi/tiktok-user-info-api) | [#️ TikTok Hashtag API](https://apify.com/novi/tiktok-hashtag-api) |
+| [🛍️ TikTok Shop API](https://apify.com/novi/tiktok-shop-scraper) | [👤️ TikTok Followers API](https://apify.com/novi/tiktok-followers-api) |                                                                    |
+
+

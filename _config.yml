@@ -29,13 +29,7 @@ domain: "novidevelop.github.io"
 
 
 google_analytics: G-E4MW9GXSJ9
-enableDNT: "false"
 
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "G-E4MW9GXSJ9"
-    anonymize_ip: false # default
 #twitter_username: jekyllrb
 #github_username: jekyll
 
