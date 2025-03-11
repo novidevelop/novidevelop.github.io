@@ -39,7 +39,7 @@ webmaster_verifications:
 
 # Build settings
 #theme: minima
-remote_theme: jekyll/minima@a9ef7b2
+remote_theme: jekyll/minima@43f3ed0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
