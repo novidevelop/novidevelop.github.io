@@ -36,7 +36,7 @@ Before you begin, make sure you have an Apify account. If you don't have one yet
 
     * **Max Items (`maxItems`) (Optional):** If you want to limit the number of trending videos you scrape, you can enter a value in this field. For instance, if you only need the top 20 trending videos, enter `20`. If you leave this field empty, the actor will attempt to retrieve a reasonable number of trending videos.
 
-    ![Fast TikTok Scraper Trend step 1]({{ site.baseurl }}/images/fast-tiktok-scraper-trend-step-3-choose-maxItems.png)
+    ![Fast TikTok Scraper Trend step 1]({{ site.baseurl }}/images/fast-tiktok-scraper-trend-step-3-choose-limit.png)
 
     * **Is Unlimited (`isUnlimited`) (Optional):** For scraping trending videos, you usually don't need to enable this option. Trending videos are typically readily available.
 
