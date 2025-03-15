@@ -2,7 +2,7 @@
 layout: post
 title: "Guide: How to Scrape Trending TikTok Videos with Apify"
 date: 2025-03-15 09:41:29 +0700
-categories: [TikTok, Data Scraping, Tutorial]
+categories: [TikTok, Data-Scraping, Tutorial]
 tags: [tiktok scraper, trending videos, data extraction, automation, apify actor, guide]
 description: "Learn how to use the Apify Fast TikTok Scraper to easily extract trending videos from TikTok in your target country."
 ---
