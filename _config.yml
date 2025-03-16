@@ -30,6 +30,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://novidevelop.github.io"
 domain: "novidevelop.github.io"
 
+titles_from_headings:
+  enabled: false
+
 #twitter_username: jekyllrb
 #github_username: jekyll
 
