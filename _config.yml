@@ -30,6 +30,8 @@ domain: "novidevelop.github.io"
 #twitter_username: jekyllrb
 #github_username: jekyll
 
+
+google_analytics: G-E4MW9GXSJ9
 site:
   google_analytics: G-E4MW9GXSJ9
   bing_site_verification: "F9CBB2877E98EA5A65A48CFBA9CC8B25"
@@ -38,8 +40,8 @@ webmaster_verifications:
   bing: "F9CBB2877E98EA5A65A48CFBA9CC8B25"
 
 # Build settings
-#theme: minima
-remote_theme: jekyll/minima@43f3ed0
+theme: minima
+#remote_theme: jekyll/minima@43f3ed0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
