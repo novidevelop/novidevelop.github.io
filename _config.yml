@@ -24,8 +24,7 @@ author:
   email: novidev.team@gmail.com
 email: novidev.team@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Learn web scraping from the experts. Our blog covers everything from basic scraping techniques to advanced topics like proxy management and data cleaning.
-  Stay up-to-date with the latest developments in the scraping world.
+  Learn web scraping from the experts. Covers everything from basic scraping techniques to advanced topics like proxy management and data cleaning.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://novidevelop.github.io"
 domain: "novidevelop.github.io"
