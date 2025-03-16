@@ -19,13 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Novi Develop - Scraping Enthusiast
-tagline: Learn web scraping from the experts
+tagline: Web scraping with the experts
 author:
   name: Novi Team
   email: novidev.team@gmail.com
 email: novidev.team@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Learn web scraping from the experts. Covers everything from basic scraping techniques to advanced topics like proxy management and data cleaning.
+  Learn web scraping from the experts. Covers everything from basic scraping techniques to advanced topics.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://novidevelop.github.io"
 domain: "novidevelop.github.io"
