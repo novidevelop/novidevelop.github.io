@@ -65,7 +65,9 @@ await Actor.exit();
 
 **Our Actors: Designed for Reliability**
 
-We, at Novi Team, understand the importance of reliable data extraction. That's why we've meticulously designed our Actors, like the **TikTok Profile Scraper**, to handle container migration seamlessly.
+We, at Novi Team, understand the importance of reliable data extraction. That's why we've meticulously designed our Actors, like the **[TikTok Profile Scraper](https://apify.com/xtdata/tiktok-user-information-scraper)**, to handle container migration seamlessly.
+
+![TikTok Profile Scraper]({{ site.baseurl }}/images/resume-run-apify.png)
 
 Our **[TikTok Profile Scraper](https://apify.com/xtdata/tiktok-user-information-scraper)**, which can scrape multiple urls, userIds and usernames, utilizes best practices for state persistence. It includes:
 
