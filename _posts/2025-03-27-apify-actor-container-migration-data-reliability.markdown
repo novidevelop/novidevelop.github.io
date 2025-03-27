@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Navigating Container Migration in Apify Actor Runs: Ensuring Data Reliability"
-date: 2023-10-27 10:00:00 +0700
+date: 2025-03-27 10:00:00 +0700
 categories: [apify, actors, web scraping, data reliability, state persistence, container migration]
 tags: [apify, actors, web scraping, data reliability, state persistence, container migration, tiktok scraper, data extraction]
 permalink: /blog/apify-actor-container-migration-data-reliability
