@@ -281,3 +281,18 @@ Refer to the [Apify TikTok Search API documentation](https://apify.com/novi/tikt
 Congratulations! You have successfully built a simple TikTok video downloader using the Apify TikTok Search API. This blog post provided a beginner-friendly guide to help you understand the code and start downloading TikTok videos based on your keywords.
 
 Feel free to explore the [Apify TikTok Search API](https://apify.com/novi/tiktok-search-api) further and customize the code to fit your specific needs. You can modify search parameters, add more error handling, or integrate this functionality into larger projects. Happy downloading!
+
+
+## Scrape any TikTok data you need with dedicated scrapers
+
+If you want to get specific data from TikTok, Twitter, you can use the scrapers below. Each scraper is made to help you get
+different kinds of TikTok data, like hashtags, search results, profiles, or everything at once. You can look at them to
+see which one you need.
+
+| [🎹️ Fast TikTok API](https://apify.com/novi/fast-tiktok-api)            | [📹️ TikTok Trend API](https://apify.com/novi/tiktok-trend-api)         | [🔍️ TikTok Search API](https://apify.com/novi/tiktok-search-api)             |
+|:-------------------------------------------------------------------------|:------------------------------------------------------------------------|:------------------------------------------------------------------------------|
+| [🧛️ TikTok User API](https://apify.com/novi/tiktok-user-api)            | [🧛️ TikTok User Info API](https://apify.com/novi/tiktok-user-info-api) | [#️ TikTok Hashtag API](https://apify.com/novi/tiktok-hashtag-api)            |
+| [🛍️ TikTok Shop API](https://apify.com/novi/tiktok-shop-scraper)        | [👤️ TikTok Followers API](https://apify.com/novi/tiktok-followers-api) | [⚡️ TikTok Scraper (pay-per-result)](https://apify.com/xtdata/tiktok-scraper) |
+| [💬 TikTok Comment API](https://apify.com/novi/tiktok-comment-api)       | [🎶 TikTok Music API](https://apify.com/novi/tiktok-sound-api)          | [🎶 TikTok Music Trend API](https://apify.com/novi/tiktok-music-trend-api)    |
+| [🐦 Twitter - X.com Scraper](https://apify.com/xtdata/twitter-x-scraper) |                                                                         |                                                                               |
+

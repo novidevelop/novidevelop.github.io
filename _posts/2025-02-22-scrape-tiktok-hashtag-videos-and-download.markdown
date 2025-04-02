@@ -240,4 +240,19 @@ Let's break down the code to understand what's happening:
 
 Congratulations\! You've successfully used the Fast TikTok API to download TikTok videos by hashtag. This tutorial
 provides a basic framework, and you can further explore the Fast TikTok API documentation to discover more features and
-customization options, such as different regions, video limits, and data fields. Happy coding\!
+customization options, such as different regions, video limits, and data fields. Happy coding!
+
+
+## Scrape any TikTok data you need with dedicated scrapers
+
+If you want to get specific data from TikTok, Twitter, you can use the scrapers below. Each scraper is made to help you get
+different kinds of TikTok data, like hashtags, search results, profiles, or everything at once. You can look at them to
+see which one you need.
+
+| [🎹️ Fast TikTok API](https://apify.com/novi/fast-tiktok-api)            | [📹️ TikTok Trend API](https://apify.com/novi/tiktok-trend-api)         | [🔍️ TikTok Search API](https://apify.com/novi/tiktok-search-api)             |
+|:-------------------------------------------------------------------------|:------------------------------------------------------------------------|:------------------------------------------------------------------------------|
+| [🧛️ TikTok User API](https://apify.com/novi/tiktok-user-api)            | [🧛️ TikTok User Info API](https://apify.com/novi/tiktok-user-info-api) | [#️ TikTok Hashtag API](https://apify.com/novi/tiktok-hashtag-api)            |
+| [🛍️ TikTok Shop API](https://apify.com/novi/tiktok-shop-scraper)        | [👤️ TikTok Followers API](https://apify.com/novi/tiktok-followers-api) | [⚡️ TikTok Scraper (pay-per-result)](https://apify.com/xtdata/tiktok-scraper) |
+| [💬 TikTok Comment API](https://apify.com/novi/tiktok-comment-api)       | [🎶 TikTok Music API](https://apify.com/novi/tiktok-sound-api)          | [🎶 TikTok Music Trend API](https://apify.com/novi/tiktok-music-trend-api)    |
+| [🐦 Twitter - X.com Scraper](https://apify.com/xtdata/twitter-x-scraper) |                                                                         |                                                                               |
+

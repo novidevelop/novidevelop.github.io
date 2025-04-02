@@ -95,3 +95,16 @@ The actor provides status messages during execution. Results are stored in a dat
 ### Support and Documentation
 
 For detailed information, refer to the official documentation. For support, use the Apify actor issue tracker or join the Apify Discord server. The scraper is actively maintained, so check for updates and bug fixes.
+
+## Scrape any TikTok data you need with dedicated scrapers
+
+If you want to get specific data from TikTok, Twitter, you can use the scrapers below. Each scraper is made to help you get
+different kinds of TikTok data, like hashtags, search results, profiles, or everything at once. You can look at them to
+see which one you need.
+
+| [🎹️ Fast TikTok API](https://apify.com/novi/fast-tiktok-api)            | [📹️ TikTok Trend API](https://apify.com/novi/tiktok-trend-api)         | [🔍️ TikTok Search API](https://apify.com/novi/tiktok-search-api)             |
+|:-------------------------------------------------------------------------|:------------------------------------------------------------------------|:------------------------------------------------------------------------------|
+| [🧛️ TikTok User API](https://apify.com/novi/tiktok-user-api)            | [🧛️ TikTok User Info API](https://apify.com/novi/tiktok-user-info-api) | [#️ TikTok Hashtag API](https://apify.com/novi/tiktok-hashtag-api)            |
+| [🛍️ TikTok Shop API](https://apify.com/novi/tiktok-shop-scraper)        | [👤️ TikTok Followers API](https://apify.com/novi/tiktok-followers-api) | [⚡️ TikTok Scraper (pay-per-result)](https://apify.com/xtdata/tiktok-scraper) |
+| [💬 TikTok Comment API](https://apify.com/novi/tiktok-comment-api)       | [🎶 TikTok Music API](https://apify.com/novi/tiktok-sound-api)          | [🎶 TikTok Music Trend API](https://apify.com/novi/tiktok-music-trend-api)    |
+| [🐦 Twitter - X.com Scraper](https://apify.com/xtdata/twitter-x-scraper) |                                                                         |                                                                               |

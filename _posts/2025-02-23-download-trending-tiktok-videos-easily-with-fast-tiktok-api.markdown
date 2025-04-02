@@ -238,3 +238,18 @@ Congratulations! You have successfully used the **Fast TikTok API** and Javascri
 Remember to check out the [Fast TikTok API page on Apify](https://apify.com/novi/fast-tiktok-api) to learn more about its features and other things you can do with it.  Apify has many other useful tools for web data extraction, so explore their platform to see what else you can discover!
 
 Now you can use these downloaded videos for your projects, learning, or just for fun.  Happy downloading!
+
+
+## Scrape any TikTok data you need with dedicated scrapers
+
+If you want to get specific data from TikTok, Twitter, you can use the scrapers below. Each scraper is made to help you get
+different kinds of TikTok data, like hashtags, search results, profiles, or everything at once. You can look at them to
+see which one you need.
+
+| [🎹️ Fast TikTok API](https://apify.com/novi/fast-tiktok-api)            | [📹️ TikTok Trend API](https://apify.com/novi/tiktok-trend-api)         | [🔍️ TikTok Search API](https://apify.com/novi/tiktok-search-api)             |
+|:-------------------------------------------------------------------------|:------------------------------------------------------------------------|:------------------------------------------------------------------------------|
+| [🧛️ TikTok User API](https://apify.com/novi/tiktok-user-api)            | [🧛️ TikTok User Info API](https://apify.com/novi/tiktok-user-info-api) | [#️ TikTok Hashtag API](https://apify.com/novi/tiktok-hashtag-api)            |
+| [🛍️ TikTok Shop API](https://apify.com/novi/tiktok-shop-scraper)        | [👤️ TikTok Followers API](https://apify.com/novi/tiktok-followers-api) | [⚡️ TikTok Scraper (pay-per-result)](https://apify.com/xtdata/tiktok-scraper) |
+| [💬 TikTok Comment API](https://apify.com/novi/tiktok-comment-api)       | [🎶 TikTok Music API](https://apify.com/novi/tiktok-sound-api)          | [🎶 TikTok Music Trend API](https://apify.com/novi/tiktok-music-trend-api)    |
+| [🐦 Twitter - X.com Scraper](https://apify.com/xtdata/twitter-x-scraper) |                                                                         |                                                                               |
+
