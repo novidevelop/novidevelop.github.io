@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Introducing the TikTok User Info API - Your New Solution for Effortless Profile Data Extraction
 date: '2025-09-12'
 categories: [apify, tiktok, data-extraction]

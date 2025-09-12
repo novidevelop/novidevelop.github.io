@@ -1,4 +1,5 @@
 ---
+layout: post
 title: How to Scrape TikTok User Profiles in 5 Minutes with the TikTok User Info API
 date: '2025-09-12'
 categories: [apify, tiktok, how-to, tutorial]
