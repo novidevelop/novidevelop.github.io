@@ -16,7 +16,7 @@ The best part? You don't need to write a single line of code. We'll focus on the
 
 First, you need to navigate to the actor's page in the Apify Store.
 
-➡️ **[Click here to go directly to the TikTok User Info API page.](https://apify.com/novi/tiktok-user-info-api)**
+➡️ **[Click here to go directly to the TikTok User Info API page.](https://apify.com/novi/tiktok-user-info-api?fpr=7hce1m)**
 
 Once there, click the **"Try for free"** button. If you don't have an Apify account, you'll be prompted to sign up for a free one. The free plan includes platform credits, which are more than enough to run this actor many times.
 

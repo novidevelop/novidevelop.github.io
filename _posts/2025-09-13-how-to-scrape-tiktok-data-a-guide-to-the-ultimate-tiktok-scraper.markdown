@@ -13,7 +13,7 @@ tags:
 
 Are you a marketer trying to analyze the latest trends, a researcher gathering data on viral content, or a creator looking to back up your own videos? Manually collecting data from TikTok is a time-consuming and inefficient process. Sifting through endless videos, profiles, and hashtags to find what you need can take hours, if not days.
 
-Fortunately, there's a powerful and simple solution. The **[TikTok Scraper](https://apify.com/novi/tiktok-scraper-ultimate)** on the Apify platform is a robust tool designed to automate this entire process, allowing you to extract comprehensive video data effortlessly.
+Fortunately, there's a powerful and simple solution. The **[TikTok Scraper](https://apify.com/novi/tiktok-scraper-ultimate?fpr=7hce1m)** on the Apify platform is a robust tool designed to automate this entire process, allowing you to extract comprehensive video data effortlessly.
 
 ### What is the TikTok Scraper?
 
@@ -37,7 +37,7 @@ This actor is packed with features designed to make your data extraction process
 
 Getting started with the TikTok Scraper on Apify is straightforward. Here’s a step-by-step guide:
 
-1.  **Find the Actor:** Navigate to the **[TikTok Scraper page in the Apify Store](https://apify.com/novi/tiktok-scraper-ultimate)**.
+1.  **Find the Actor:** Navigate to the **[TikTok Scraper page in the Apify Store](https://apify.com/novi/tiktok-scraper-ultimate?fpr=7hce1m)**.
 2.  **Try for Free:** Click the "Try for free" button. If you don't have an Apify account, you'll be prompted to sign up for a free plan. This will take you to the actor's task page in your Apify Console.
 3.  **Configure Your Input:** This is where you tell the actor what to scrape. You have two main options:
     * **Option A: Scrape Specific URLs:** In the `startUrls` field, paste the list of TikTok URLs you want to extract data from. You can mix and match video links, user profiles (`@username`), and hashtag pages.
@@ -77,4 +77,4 @@ Within minutes, you would have a structured dataset of the most-liked coffee-rel
 
 The TikTok Scraper is an essential tool for anyone needing to gather rich, actionable data from one of the world's most popular social platforms. It's fast, flexible, and removes major barriers like watermarks and proxy costs.
 
-Ready to unlock the power of TikTok data? **[Try the TikTok Scraper on the Apify Store today](https://apify.com/novi/tiktok-scraper-ultimate)** and start your first scraping job for free\!
+Ready to unlock the power of TikTok data? **[Try the TikTok Scraper on the Apify Store today](https://apify.com/novi/tiktok-scraper-ultimate?fpr=7hce1m)** and start your first scraping job for free\!

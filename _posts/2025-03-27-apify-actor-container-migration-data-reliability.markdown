@@ -65,11 +65,11 @@ await Actor.exit();
 
 **Our Actors: Designed for Reliability**
 
-We, at Novi Team, understand the importance of reliable data extraction. That's why we've meticulously designed our Actors, like the **[TikTok Profile Scraper](https://apify.com/xtdata/tiktok-user-information-scraper)**, to handle container migration seamlessly.
+We, at Novi Team, understand the importance of reliable data extraction. That's why we've meticulously designed our Actors, like the **[TikTok Profile Scraper](https://apify.com/xtdata/tiktok-user-information-scraper?fpr=7hce1m)**, to handle container migration seamlessly.
 
 ![TikTok Profile Scraper]({{ site.baseurl }}/images/resume-run-apify.png)
 
-Our **[TikTok Profile Scraper](https://apify.com/xtdata/tiktok-user-information-scraper)**, which can scrape multiple urls, userIds and usernames, utilizes best practices for state persistence. It includes:
+Our **[TikTok Profile Scraper](https://apify.com/xtdata/tiktok-user-information-scraper?fpr=7hce1m)**, which can scrape multiple urls, userIds and usernames, utilizes best practices for state persistence. It includes:
 
 * **Efficient state saving:** To prevent data loss.
 * **Robust error handling:** To maintain smooth operations.
@@ -92,9 +92,9 @@ We encourage you to leverage our tools and best practices to optimize your Apify
 You can use the scrapers below. Each scraper is made to help you get different kinds of TikTok data, like hashtags,
 search results, profiles, or everything at once. You can look at them to see which one you need.
 
-| [🎹️ Fast TikTok API](https://apify.com/novi/fast-tiktok-api)      | [📹️ TikTok Trend API](https://apify.com/novi/tiktok-trend-api)         | [🔍️ TikTok Search API](https://apify.com/novi/tiktok-search-api)             |
+| [🎹️ Fast TikTok API](https://apify.com/novi/fast-tiktok-api?fpr=7hce1m)      | [📹️ TikTok Trend API](https://apify.com/novi/tiktok-trend-api?fpr=7hce1m)         | [🔍️ TikTok Search API](https://apify.com/novi/tiktok-search-api?fpr=7hce1m)             |
 |:-------------------------------------------------------------------|:------------------------------------------------------------------------|:------------------------------------------------------------------------------|
-| [🧛️ TikTok User API](https://apify.com/novi/tiktok-user-api)      | [🧛️ TikTok User Info API](https://apify.com/novi/tiktok-user-info-api) | [#️ TikTok Hashtag API](https://apify.com/novi/tiktok-hashtag-api)            |
+| [🧛️ TikTok User API](https://apify.com/novi/tiktok-user-api?fpr=7hce1m)      | [🧛️ TikTok User Info API](https://apify.com/novi/tiktok-user-info-api) | [#️ TikTok Hashtag API](https://apify.com/novi/tiktok-hashtag-api)            |
 | [🛍️ TikTok Shop API](https://apify.com/novi/tiktok-shop-scraper)  | [👤️ TikTok Followers API](https://apify.com/novi/tiktok-followers-api) | [⚡️ TikTok Scraper (pay-per-result)](https://apify.com/xtdata/tiktok-scraper) |
 | [💬 TikTok Comment API](https://apify.com/novi/tiktok-comment-api) | [🎶 TikTok Music API](https://apify.com/novi/tiktok-sound-api)          | [🎶 TikTok Music Trend API](https://apify.com/novi/tiktok-music-trend-api)    |
 

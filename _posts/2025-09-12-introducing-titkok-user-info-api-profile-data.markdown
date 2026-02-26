@@ -43,4 +43,4 @@ Ready to harness the power of TikTok data? The TikTok User Info API is now avail
 
 Stay tuned for our next post, where we’ll provide a step-by-step quickstart guide to help you run your first data extraction task in under five minutes.
 
-**[➡️ Try the TikTok User Info API on the Apify Store Now](https://apify.com/novi/tiktok-user-info-api)**
+**[➡️ Try the TikTok User Info API on the Apify Store Now](https://apify.com/novi/tiktok-user-info-api?fpr=7hce1m)**

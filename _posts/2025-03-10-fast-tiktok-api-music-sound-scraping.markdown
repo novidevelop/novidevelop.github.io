@@ -5,7 +5,7 @@ date: 2025-03-10 01:30:00 +0000
 categories: [ tiktok, data-extraction, tutorial, music, sound ]
 ---
 
-[The Fast TikTok API](https://apify.com/novi/fast-tiktok-api)'s `MUSIC` scraping type allows you to retrieve videos that use a specific sound or song. This is
+[The Fast TikTok API](https://apify.com/novi/fast-tiktok-api?fpr=7hce1m)'s `MUSIC` scraping type allows you to retrieve videos that use a specific sound or song. This is
 incredibly useful for identifying trends, tracking the use of particular audio clips, and understanding how music
 contributes to viral content. This guide focuses on the API's input UI for the `MUSIC` type. Learn more about [The Fast TikTok API](https://apify.com/novi/fast-tiktok-api?fpr=7hce1m).
 
