@@ -16,7 +16,7 @@ Before you begin, make sure you have an Apify account. If you don't have one yet
 ## Step-by-Step Guide to Scraping Trending TikTok Videos
 
 1.  **Navigate to the Fast TikTok Scraper Actor:**
-    Open your web browser and go to the Apify actor page for the Fast TikTok Scraper: [https://apify.com/novi/fast-tiktok-scraper?fpr=7hce1m](https://apify.com/novi/fast-tiktok-scraper?fpr=7hce1m).
+    Open your web browser and go to the Apify actor page for the Fast TikTok Scraper: [https://apify.com/novi/fast-tiktok-scraper](https://apify.com/novi/fast-tiktok-scraper?fpr=7hce1m).
 
     ![Fast TikTok Scraper]({{ site.baseurl }}/images/fast-tiktok-scraper.png)
 
@@ -69,7 +69,7 @@ Before you begin, make sure you have an Apify account. If you don't have one yet
 
 Scraping trending TikTok videos with the Apify Fast TikTok Scraper is a straightforward process. By following these simple steps, you can easily gather valuable insights into the latest viral content on the platform. Start exploring the trends today!
 
-[Link to the Apify Actor: https://apify.com/novi/fast-tiktok-scraper?fpr=7hce1m](https://apify.com/novi/fast-tiktok-scraper?fpr=7hce1m)
+[Link to the Apify Actor: https://apify.com/novi/fast-tiktok-scraper](https://apify.com/novi/fast-tiktok-scraper?fpr=7hce1m)
 
 
 
