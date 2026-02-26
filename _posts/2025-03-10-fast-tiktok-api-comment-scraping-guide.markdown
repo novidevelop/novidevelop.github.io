@@ -5,7 +5,7 @@ date: 2025-03-10 01:50:00 +0000
 categories: [ tiktok, data-extraction, tutorial, comments ]
 ---
 
-[The Fast TikTok API](https://apify.com/novi/fast-tiktok-api)'s `COMMENT` scraping type allows you to retrieve comments from a specific TikTok video. This is
+[The Fast TikTok API](https://apify.com/novi/fast-tiktok-api?fpr=7hce1m)'s `COMMENT` scraping type allows you to retrieve comments from a specific TikTok video. This is
 invaluable for sentiment analysis, understanding audience reactions, identifying key themes in discussions, and
 gathering feedback. This guide focuses on using the API's input UI for the `COMMENT` type.
 
@@ -82,7 +82,7 @@ The fields `region`, `keyword`, `sortType`, `publishTime`, and `urls` are *not* 
 
 ## Conclusion
 
-[The Fast TikTok API](https://apify.com/novi/fast-tiktok-api)'s `COMMENT` input provides access to a wealth of qualitative data from TikTok video comments. By
+[The Fast TikTok API](https://apify.com/novi/fast-tiktok-api?fpr=7hce1m)'s `COMMENT` input provides access to a wealth of qualitative data from TikTok video comments. By
 correctly providing the video URL and thoughtfully managing the `limit` and `isUnlimited` settings, you can gain
 valuable insights into audience sentiment, feedback, and engagement. Always remember to start with a small scope and
 test thoroughly, especially when dealing with potentially large numbers of comments.
@@ -94,10 +94,10 @@ If you want to get specific data from TikTok, Twitter, you can use the scrapers 
 different kinds of TikTok data, like hashtags, search results, profiles, or everything at once. You can look at them to
 see which one you need.
 
-| [🎹️ Fast TikTok API](https://apify.com/novi/fast-tiktok-api)            | [📹️ TikTok Trend API](https://apify.com/novi/tiktok-trend-api)         | [🔍️ TikTok Search API](https://apify.com/novi/tiktok-search-api)             |
+| [🎹️ Fast TikTok API](https://apify.com/novi/fast-tiktok-api?fpr=7hce1m)            | [📹️ TikTok Trend API](https://apify.com/novi/tiktok-trend-api?fpr=7hce1m)         | [🔍️ TikTok Search API](https://apify.com/novi/tiktok-search-api?fpr=7hce1m)             |
 |:-------------------------------------------------------------------------|:------------------------------------------------------------------------|:------------------------------------------------------------------------------|
-| [🧛️ TikTok User API](https://apify.com/novi/tiktok-user-api)            | [🧛️ TikTok User Info API](https://apify.com/novi/tiktok-user-info-api) | [#️ TikTok Hashtag API](https://apify.com/novi/tiktok-hashtag-api)            |
-| [🛍️ TikTok Shop API](https://apify.com/novi/tiktok-shop-scraper)        | [👤️ TikTok Followers API](https://apify.com/novi/tiktok-followers-api) | [⚡️ TikTok Scraper (pay-per-result)](https://apify.com/xtdata/tiktok-scraper) |
-| [💬 TikTok Comment API](https://apify.com/novi/tiktok-comment-api)       | [🎶 TikTok Music API](https://apify.com/novi/tiktok-sound-api)          | [🎶 TikTok Music Trend API](https://apify.com/novi/tiktok-music-trend-api)    |
-| [🐦 Twitter - X.com Scraper](https://apify.com/xtdata/twitter-x-scraper) |                                                                         |                                                                               |
+| [🧛️ TikTok User API](https://apify.com/novi/tiktok-user-api?fpr=7hce1m)            | [🧛️ TikTok User Info API](https://apify.com/novi/tiktok-user-info-api?fpr=7hce1m) | [#️ TikTok Hashtag API](https://apify.com/novi/tiktok-hashtag-api?fpr=7hce1m)            |
+| [🛍️ TikTok Shop API](https://apify.com/novi/tiktok-shop-scraper?fpr=7hce1m)        | [👤️ TikTok Followers API](https://apify.com/novi/tiktok-followers-api?fpr=7hce1m) | [⚡️ TikTok Scraper (pay-per-result)](https://apify.com/xtdata/tiktok-scraper?fpr=7hce1m) |
+| [💬 TikTok Comment API](https://apify.com/novi/tiktok-comment-api?fpr=7hce1m)       | [🎶 TikTok Music API](https://apify.com/novi/tiktok-sound-api?fpr=7hce1m)          | [🎶 TikTok Music Trend API](https://apify.com/novi/tiktok-music-trend-api?fpr=7hce1m)    |
+| [🐦 Twitter - X.com Scraper](https://apify.com/xtdata/twitter-x-scraper?fpr=7hce1m) |                                                                         |                                                                               |
 

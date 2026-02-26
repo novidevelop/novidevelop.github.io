@@ -8,7 +8,7 @@ categories: [ tiktok, data-extraction, tutorial, hashtag ]
 Hashtags are the backbone of TikTok's content organization and discovery system. The Fast TikTok API's `HASHTAG`
 scraping type allows you to retrieve videos associated with a specific hashtag, providing a powerful way to analyze
 niche communities, track campaigns, and understand content themes. This guide focuses on using the API's input UI for
-the `HASHTAG` type. Check out [The Fast TikTok API](https://apify.com/novi/fast-tiktok-api).
+the `HASHTAG` type. Check out [The Fast TikTok API](https://apify.com/novi/fast-tiktok-api?fpr=7hce1m).
 
 ![Fast TikTok API]({{ site.baseurl }}/images/fast-tiktok-api.png)
 
@@ -86,7 +86,7 @@ Notice that `region`, `keyword`, `sortType`, `publishTime`, and `urls` are *not*
 
 ## Conclusion
 
-[The Fast TikTok API](https://apify.com/novi/fast-tiktok-api)'s `HASHTAG` input is a powerful tool for delving into specific TikTok communities and content
+[The Fast TikTok API](https://apify.com/novi/fast-tiktok-api?fpr=7hce1m)'s `HASHTAG` input is a powerful tool for delving into specific TikTok communities and content
 categories. By understanding the importance of the `url` field and carefully managing the `limit` and `isUnlimited`
 options, you can effectively gather valuable data for your projects. Remember to start small, test thoroughly, and be
 mindful of TikTok's rate limits.
@@ -98,10 +98,10 @@ If you want to get specific data from TikTok, Twitter, you can use the scrapers 
 different kinds of TikTok data, like hashtags, search results, profiles, or everything at once. You can look at them to
 see which one you need.
 
-| [🎹️ Fast TikTok API](https://apify.com/novi/fast-tiktok-api)            | [📹️ TikTok Trend API](https://apify.com/novi/tiktok-trend-api)         | [🔍️ TikTok Search API](https://apify.com/novi/tiktok-search-api)             |
+| [🎹️ Fast TikTok API](https://apify.com/novi/fast-tiktok-api?fpr=7hce1m)            | [📹️ TikTok Trend API](https://apify.com/novi/tiktok-trend-api?fpr=7hce1m)         | [🔍️ TikTok Search API](https://apify.com/novi/tiktok-search-api?fpr=7hce1m)             |
 |:-------------------------------------------------------------------------|:------------------------------------------------------------------------|:------------------------------------------------------------------------------|
-| [🧛️ TikTok User API](https://apify.com/novi/tiktok-user-api)            | [🧛️ TikTok User Info API](https://apify.com/novi/tiktok-user-info-api) | [#️ TikTok Hashtag API](https://apify.com/novi/tiktok-hashtag-api)            |
-| [🛍️ TikTok Shop API](https://apify.com/novi/tiktok-shop-scraper)        | [👤️ TikTok Followers API](https://apify.com/novi/tiktok-followers-api) | [⚡️ TikTok Scraper (pay-per-result)](https://apify.com/xtdata/tiktok-scraper) |
-| [💬 TikTok Comment API](https://apify.com/novi/tiktok-comment-api)       | [🎶 TikTok Music API](https://apify.com/novi/tiktok-sound-api)          | [🎶 TikTok Music Trend API](https://apify.com/novi/tiktok-music-trend-api)    |
-| [🐦 Twitter - X.com Scraper](https://apify.com/xtdata/twitter-x-scraper) |                                                                         |                                                                               |
+| [🧛️ TikTok User API](https://apify.com/novi/tiktok-user-api?fpr=7hce1m)            | [🧛️ TikTok User Info API](https://apify.com/novi/tiktok-user-info-api?fpr=7hce1m) | [#️ TikTok Hashtag API](https://apify.com/novi/tiktok-hashtag-api?fpr=7hce1m)            |
+| [🛍️ TikTok Shop API](https://apify.com/novi/tiktok-shop-scraper?fpr=7hce1m)        | [👤️ TikTok Followers API](https://apify.com/novi/tiktok-followers-api?fpr=7hce1m) | [⚡️ TikTok Scraper (pay-per-result)](https://apify.com/xtdata/tiktok-scraper?fpr=7hce1m) |
+| [💬 TikTok Comment API](https://apify.com/novi/tiktok-comment-api?fpr=7hce1m)       | [🎶 TikTok Music API](https://apify.com/novi/tiktok-sound-api?fpr=7hce1m)          | [🎶 TikTok Music Trend API](https://apify.com/novi/tiktok-music-trend-api?fpr=7hce1m)    |
+| [🐦 Twitter - X.com Scraper](https://apify.com/xtdata/twitter-x-scraper?fpr=7hce1m) |                                                                         |                                                                               |
 

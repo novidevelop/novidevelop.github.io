@@ -7,7 +7,7 @@ categories: [ tiktok, scraper ]
 
 Are you looking to download TikTok videos based on specific keywords?  This blog post will guide you through a step-by-step process using the Apify TikTok Search API and a simple JavaScript code snippet.  This method is perfect for content creators, marketers, or anyone interested in analyzing TikTok trends and content.
 
-We will be leveraging the power of the [Apify TikTok Search API](https://apify.com/novi/tiktok-search-api) to efficiently search and download TikTok videos programmatically.  This API allows you to extract data from TikTok, including video URLs, based on your search criteria.
+We will be leveraging the power of the [Apify TikTok Search API](https://apify.com/novi/tiktok-search-api?fpr=7hce1m) to efficiently search and download TikTok videos programmatically.  This API allows you to extract data from TikTok, including video URLs, based on your search criteria.
 
 Let's dive into the tutorial!
 
@@ -274,13 +274,13 @@ Experiment with different search parameters in the `searchAndDownloadVideos()` f
       limit = 10)
   ```
 
-Refer to the [Apify TikTok Search API documentation](https://apify.com/novi/tiktok-search-api) for a full list of available parameters and their possible values.
+Refer to the [Apify TikTok Search API documentation](https://apify.com/novi/tiktok-search-api?fpr=7hce1m) for a full list of available parameters and their possible values.
 
 ## Conclusion
 
 Congratulations! You have successfully built a simple TikTok video downloader using the Apify TikTok Search API. This blog post provided a beginner-friendly guide to help you understand the code and start downloading TikTok videos based on your keywords.
 
-Feel free to explore the [Apify TikTok Search API](https://apify.com/novi/tiktok-search-api) further and customize the code to fit your specific needs. You can modify search parameters, add more error handling, or integrate this functionality into larger projects. Happy downloading!
+Feel free to explore the [Apify TikTok Search API](https://apify.com/novi/tiktok-search-api?fpr=7hce1m) further and customize the code to fit your specific needs. You can modify search parameters, add more error handling, or integrate this functionality into larger projects. Happy downloading!
 
 
 ## Scrape any TikTok data you need with dedicated scrapers
@@ -289,10 +289,10 @@ If you want to get specific data from TikTok, Twitter, you can use the scrapers 
 different kinds of TikTok data, like hashtags, search results, profiles, or everything at once. You can look at them to
 see which one you need.
 
-| [🎹️ Fast TikTok API](https://apify.com/novi/fast-tiktok-api)            | [📹️ TikTok Trend API](https://apify.com/novi/tiktok-trend-api)         | [🔍️ TikTok Search API](https://apify.com/novi/tiktok-search-api)             |
+| [🎹️ Fast TikTok API](https://apify.com/novi/fast-tiktok-api?fpr=7hce1m)            | [📹️ TikTok Trend API](https://apify.com/novi/tiktok-trend-api?fpr=7hce1m)         | [🔍️ TikTok Search API](https://apify.com/novi/tiktok-search-api?fpr=7hce1m)             |
 |:-------------------------------------------------------------------------|:------------------------------------------------------------------------|:------------------------------------------------------------------------------|
-| [🧛️ TikTok User API](https://apify.com/novi/tiktok-user-api)            | [🧛️ TikTok User Info API](https://apify.com/novi/tiktok-user-info-api) | [#️ TikTok Hashtag API](https://apify.com/novi/tiktok-hashtag-api)            |
-| [🛍️ TikTok Shop API](https://apify.com/novi/tiktok-shop-scraper)        | [👤️ TikTok Followers API](https://apify.com/novi/tiktok-followers-api) | [⚡️ TikTok Scraper (pay-per-result)](https://apify.com/xtdata/tiktok-scraper) |
-| [💬 TikTok Comment API](https://apify.com/novi/tiktok-comment-api)       | [🎶 TikTok Music API](https://apify.com/novi/tiktok-sound-api)          | [🎶 TikTok Music Trend API](https://apify.com/novi/tiktok-music-trend-api)    |
-| [🐦 Twitter - X.com Scraper](https://apify.com/xtdata/twitter-x-scraper) |                                                                         |                                                                               |
+| [🧛️ TikTok User API](https://apify.com/novi/tiktok-user-api?fpr=7hce1m)            | [🧛️ TikTok User Info API](https://apify.com/novi/tiktok-user-info-api?fpr=7hce1m) | [#️ TikTok Hashtag API](https://apify.com/novi/tiktok-hashtag-api?fpr=7hce1m)            |
+| [🛍️ TikTok Shop API](https://apify.com/novi/tiktok-shop-scraper?fpr=7hce1m)        | [👤️ TikTok Followers API](https://apify.com/novi/tiktok-followers-api?fpr=7hce1m) | [⚡️ TikTok Scraper (pay-per-result)](https://apify.com/xtdata/tiktok-scraper?fpr=7hce1m) |
+| [💬 TikTok Comment API](https://apify.com/novi/tiktok-comment-api?fpr=7hce1m)       | [🎶 TikTok Music API](https://apify.com/novi/tiktok-sound-api?fpr=7hce1m)          | [🎶 TikTok Music Trend API](https://apify.com/novi/tiktok-music-trend-api?fpr=7hce1m)    |
+| [🐦 Twitter - X.com Scraper](https://apify.com/xtdata/twitter-x-scraper?fpr=7hce1m) |                                                                         |                                                                               |
 

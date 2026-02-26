@@ -11,7 +11,7 @@ This blog post is for beginners and will guide you step-by-step. We will use Jav
 
 ## What is Fast TikTok API?
 
-[Fast TikTok API](https://apify.com/novi/fast-tiktok-api) is a tool on Apify that lets you get data from TikTok, like trending videos, video details, and more.  Apify is a platform that helps you collect data from the web.  This API makes it simple to find out what's popular on TikTok right now.
+[Fast TikTok API](https://apify.com/novi/fast-tiktok-api?fpr=7hce1m) is a tool on Apify that lets you get data from TikTok, like trending videos, video details, and more.  Apify is a platform that helps you collect data from the web.  This API makes it simple to find out what's popular on TikTok right now.
 
 In this guide, we will use this API to:
 
@@ -226,7 +226,7 @@ fetchAndDownloadTrendingVideos()
 
 You can change some settings in the code to customize it:
 
-* **`TIKTOK_REGION = 'GB';`**: This line sets the TikTok region to "GB" (United Kingdom). You can change this to other region codes like "US" (United States), "VN" (Vietnam), etc., to get trending videos from different regions.  See the [Fast TikTok API documentation](https://apify.com/novi/fast-tiktok-api) for a list of supported regions.
+* **`TIKTOK_REGION = 'GB';`**: This line sets the TikTok region to "GB" (United Kingdom). You can change this to other region codes like "US" (United States), "VN" (Vietnam), etc., to get trending videos from different regions.  See the [Fast TikTok API documentation](https://apify.com/novi/fast-tiktok-api?fpr=7hce1m) for a list of supported regions.
 * **`DOWNLOAD_LIMIT = 40;`**: This line sets the number of trending videos to download to 40. You can change this number to download more or fewer videos.
 
 To change these settings, simply edit the values in the `download_tiktok_trends.js` file and run the script again.
@@ -235,7 +235,7 @@ To change these settings, simply edit the values in the `download_tiktok_trends.
 
 Congratulations! You have successfully used the **Fast TikTok API** and Javascript code to download trending TikTok videos. This is a simple way to explore what's currently popular on TikTok.
 
-Remember to check out the [Fast TikTok API page on Apify](https://apify.com/novi/fast-tiktok-api) to learn more about its features and other things you can do with it.  Apify has many other useful tools for web data extraction, so explore their platform to see what else you can discover!
+Remember to check out the [Fast TikTok API page on Apify](https://apify.com/novi/fast-tiktok-api?fpr=7hce1m) to learn more about its features and other things you can do with it.  Apify has many other useful tools for web data extraction, so explore their platform to see what else you can discover!
 
 Now you can use these downloaded videos for your projects, learning, or just for fun.  Happy downloading!
 
@@ -246,10 +246,10 @@ If you want to get specific data from TikTok, Twitter, you can use the scrapers 
 different kinds of TikTok data, like hashtags, search results, profiles, or everything at once. You can look at them to
 see which one you need.
 
-| [🎹️ Fast TikTok API](https://apify.com/novi/fast-tiktok-api)            | [📹️ TikTok Trend API](https://apify.com/novi/tiktok-trend-api)         | [🔍️ TikTok Search API](https://apify.com/novi/tiktok-search-api)             |
+| [🎹️ Fast TikTok API](https://apify.com/novi/fast-tiktok-api?fpr=7hce1m)            | [📹️ TikTok Trend API](https://apify.com/novi/tiktok-trend-api?fpr=7hce1m)         | [🔍️ TikTok Search API](https://apify.com/novi/tiktok-search-api?fpr=7hce1m)             |
 |:-------------------------------------------------------------------------|:------------------------------------------------------------------------|:------------------------------------------------------------------------------|
-| [🧛️ TikTok User API](https://apify.com/novi/tiktok-user-api)            | [🧛️ TikTok User Info API](https://apify.com/novi/tiktok-user-info-api) | [#️ TikTok Hashtag API](https://apify.com/novi/tiktok-hashtag-api)            |
-| [🛍️ TikTok Shop API](https://apify.com/novi/tiktok-shop-scraper)        | [👤️ TikTok Followers API](https://apify.com/novi/tiktok-followers-api) | [⚡️ TikTok Scraper (pay-per-result)](https://apify.com/xtdata/tiktok-scraper) |
-| [💬 TikTok Comment API](https://apify.com/novi/tiktok-comment-api)       | [🎶 TikTok Music API](https://apify.com/novi/tiktok-sound-api)          | [🎶 TikTok Music Trend API](https://apify.com/novi/tiktok-music-trend-api)    |
-| [🐦 Twitter - X.com Scraper](https://apify.com/xtdata/twitter-x-scraper) |                                                                         |                                                                               |
+| [🧛️ TikTok User API](https://apify.com/novi/tiktok-user-api?fpr=7hce1m)            | [🧛️ TikTok User Info API](https://apify.com/novi/tiktok-user-info-api?fpr=7hce1m) | [#️ TikTok Hashtag API](https://apify.com/novi/tiktok-hashtag-api?fpr=7hce1m)            |
+| [🛍️ TikTok Shop API](https://apify.com/novi/tiktok-shop-scraper?fpr=7hce1m)        | [👤️ TikTok Followers API](https://apify.com/novi/tiktok-followers-api?fpr=7hce1m) | [⚡️ TikTok Scraper (pay-per-result)](https://apify.com/xtdata/tiktok-scraper?fpr=7hce1m) |
+| [💬 TikTok Comment API](https://apify.com/novi/tiktok-comment-api?fpr=7hce1m)       | [🎶 TikTok Music API](https://apify.com/novi/tiktok-sound-api?fpr=7hce1m)          | [🎶 TikTok Music Trend API](https://apify.com/novi/tiktok-music-trend-api?fpr=7hce1m)    |
+| [🐦 Twitter - X.com Scraper](https://apify.com/xtdata/twitter-x-scraper?fpr=7hce1m) |                                                                         |                                                                               |
 
