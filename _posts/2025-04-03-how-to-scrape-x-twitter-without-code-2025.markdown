@@ -66,7 +66,7 @@ Based on the tutorial provided by Novi Develop, here's how you can use Apify's T
 * Click on the Actor to open its details page (you can also directly access it
   via [https://apify.com/xtdata/twitter-x-scraper](https://apify.com/xtdata/twitter-x-scraper?fpr=7hce1m)).
 
-  ![Twitter X Scraper]({{ site.baseurl }}/images/x-twitter-api-scraper.png)
+  ![X.com Twitter API Scraper on Apify - Extract tweets and users without coding]({{ site.baseurl }}/images/x-twitter-api-scraper.png)
 
 
 **3. Configure the Input**:
@@ -157,7 +157,7 @@ The Tweet X.com Scraper offers various input options. Here are the key settings:
 * Monitor the scraper's progress on the Apify platform.
 * The run time will depend on your query complexity and the number of tweets requested.
 
-  ![Twitter X Scraper]({{ site.baseurl }}/images/start-x-twitter-scraper.png)
+  ![X.com Twitter API Scraper on Apify - Extract tweets and users without coding]({{ site.baseurl }}/images/start-x-twitter-scraper.png)
 
 **5. Download Your Data**:
 
@@ -185,15 +185,7 @@ solution** for extracting valuable insights from X.com. By following this guide,
 you need for your research, analysis, and business intelligence endeavors. Start exploring the potential of X.com data
 today!
 
-#### If you want to get specific data from TikTok
 
-You can use the scrapers below. Each scraper is made to help you get different kinds of TikTok data, like hashtags,
-search results, profiles, or everything at once. You can look at them to see which one you need.
-
-| [🎹️ Fast TikTok API](https://apify.com/novi/fast-tiktok-api?fpr=7hce1m)      | [📹️ TikTok Trend API](https://apify.com/novi/tiktok-trend-api?fpr=7hce1m)         | [🔍️ TikTok Search API](https://apify.com/novi/tiktok-search-api?fpr=7hce1m)             |
-|:-------------------------------------------------------------------|:------------------------------------------------------------------------|:------------------------------------------------------------------------------|
-| [🧛️ TikTok User API](https://apify.com/novi/tiktok-user-api?fpr=7hce1m)      | [🧛️ TikTok User Info API](https://apify.com/novi/tiktok-user-info-api?fpr=7hce1m) | [#️ TikTok Hashtag API](https://apify.com/novi/tiktok-hashtag-api?fpr=7hce1m)            |
-| [🛍️ TikTok Shop API](https://apify.com/novi/tiktok-shop-scraper?fpr=7hce1m)  | [👤️ TikTok Followers API](https://apify.com/novi/tiktok-followers-api?fpr=7hce1m) | [⚡️ TikTok Scraper (pay-per-result)](https://apify.com/xtdata/tiktok-scraper?fpr=7hce1m) |
-| [💬 TikTok Comment API](https://apify.com/novi/tiktok-comment-api?fpr=7hce1m) | [🎶 TikTok Music API](https://apify.com/novi/tiktok-sound-api?fpr=7hce1m)          | [🎶 TikTok Music Trend API](https://apify.com/novi/tiktok-music-trend-api?fpr=7hce1m)    |
-
-
+***
+**Looking for data extraction tools?**  
+Check out our [comprehensive collection of no-code scrapers and APIs]({{ site.baseurl }}/tools/) for TikTok, X.com, and more.
