@@ -2,7 +2,7 @@
 layout: post
 title: "Unlock TikTok Insights: Introducing the Fast TikTok Scraper (pay-per-video)"
 date: 2025-03-15 09:36:29 +0700
-categories: [TikTok, Data Scraping]
+categories: [tiktok, data-scraping]
 tags: [tiktok scraper, data extraction, social media, automation, apify actor]
 description: "Discover the power of the Apify Fast TikTok Scraper for extracting valuable data from TikTok, whether you're analyzing trends, researching hashtags, or monitoring user content."
 ---

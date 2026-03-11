@@ -2,7 +2,7 @@
 layout: post
 title: "Scraping X.com (Twitter) in 2025 Without Writing Code"
 date: 2025-04-03
-categories: [Web Scraping, No-Code, Data Extraction, X.com, Twitter, Apify]
+categories: [web-scraping, no-code, data-extraction, x.com, twitter, apify]
 tags: [web scraping, twitter scraping, x.com scraping, no code, data extraction, apify]
 permalink: /blog/2025/how-to-scrape-x-twitter-without-writing-code
 ---
