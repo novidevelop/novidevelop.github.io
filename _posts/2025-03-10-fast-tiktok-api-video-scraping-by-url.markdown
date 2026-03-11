@@ -36,9 +36,9 @@ for *all* the provided URLs/IDs.
 
 **UI Visualization:**
 
-![Fast TikTok API Music]({{ site.baseurl }}/images/fast-tiktok-api-user.png)
+![Fast TikTok API Video Input]({{ site.baseurl }}/images/fast-tiktok-api-video-scraping-by-url.png)
 
-Notice that `region`, `keyword`, `sortType`, `publishTime`, `url` are *not* used with the `VIDEO` type.
+Notice that parameters like `region`, `keyword`, `sortType`, and `publishTime` are *ignored* when using the `VIDEO` type.
 
 ## Example Scenarios
 
@@ -71,8 +71,45 @@ Notice that `region`, `keyword`, `sortType`, `publishTime`, `url` are *not* used
 
 * **URL/ID Accuracy:** Double-check every URL and ID to avoid errors.
 * **Bulk Input:** Use the "Bulk edit" feature (if available in the UI) to paste a large list of URLs/IDs more easily.
-* **Error Handling:** Be prepared to handle potential errors. A video might be deleted, private, or otherwise
-  unavailable. Your code should gracefully handle these situations.
+* **Error Handling:** Be prepared to handle potential errors. A video might be deleted, private, or otherwise unavailable. Your code should gracefully handle these situations.
+
+## Python Code Example
+
+To truly automate this, you can run the extraction from a Python script using the `apify-client` library. This snippet demonstrates how to submit a list of URLs and extract their view counts and download links (without watermarks).
+
+```python
+from apify_client import ApifyClient
+
+# Start your client
+client = ApifyClient("YOUR_API_TOKEN")
+
+# Setup the input payload for specific videos
+run_input = {
+    "type": "VIDEO",
+    "urls": [
+        "https://www.tiktok.com/@nike/video/7292265008580529450",
+        "https://www.tiktok.com/@natgeo/video/7479779154083269930"
+    ],
+    "downloadVideo": True # Request watermark-free video downloads
+}
+
+# Run the actor
+print("Running Fast TikTok API...")
+run = client.actor("novi/fast-tiktok-api").call(run_input=run_input)
+
+# Fetch the results
+results = client.dataset(run["defaultDatasetId"]).list_items().items
+
+# Process the extracted data
+for video in results:
+    author = video.get("author", {}).get("nickname", "Unknown")
+    views = video.get("statistics", {}).get("playCount", 0)
+    download_url = video.get("video", {}).get("downloadAddr", "N/A")
+    
+    print(f"\n--- {author}'s Video ---")
+    print(f"Views: {views:,}")
+    print(f"Download Link: {download_url}")
+```
 
 ## Conclusion
 

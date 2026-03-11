@@ -52,51 +52,83 @@ pip install apify-client
 
 ## Running the Scraper
 
-To scrape data, provide input parameters like search queries. Here’s an example:
+To scrape data, you need to provide input parameters. For the `xtdata/twitter-x-scraper` Actor, the main input field is `searchTerms`. 
+
+Here is a complete, robust example that includes error handling and pagination limits:
 
 ```python
+from apify_client import ApifyClient
+
+# Initialize the Apify client
+client = ApifyClient("YOUR_API_TOKEN")
+
 # Define the actor ID for Twitter X Scraper
 actor_id = "xtdata/twitter-x-scraper"
 
-# Set up input parameters
+# Set up advanced input parameters
 input_data = {
-    "searchQuery": "#Python",
-    "maxResults": 100,
-    "language": "en"
+    "searchTerms": ["#Python", "#WebScraping"],
+    "maxTweets": 100,
+    "sort": "Top",             # Can be "Latest" or "Top"
+    "tweetLanguage": "en",
+    "onlyVerifiedUsers": False,   # Set to True to filter spam
+    "onlyImage": False
 }
 
-# Run the scraper
-run = client.actor(actor_id).call(run_input=input_data)
+print("Starting the Twitter Scraper...")
+try:
+    # Run the actor and wait for it to finish
+    run = client.actor(actor_id).call(run_input=input_data)
+    
+    # Fetch the results from the actor's default dataset
+    dataset_id = run.get("defaultDatasetId")
+    if dataset_id:
+        print(f"Scraping successful! Dataset ID: {dataset_id}")
+        results = client.dataset(dataset_id).list_items().items
+        print(f"Extracted {len(results)} tweets.")
+        
+        # Print the text of the first 3 tweets
+        for i, item in enumerate(results[:3]):
+            print(f"\n--- Tweet {i+1} ---")
+            print(item.get("text", "No text found"))
+    else:
+        print("Run finished, but no dataset was generated.")
 
-# Fetch the results
-results = client.dataset(run["defaultDatasetId"]).list_items()
-for item in results["items"]:
-    print(item)
+except Exception as e:
+    print(f"An error occurred during scraping: {e}")
 ```
 
 ---
 
 ## Customization Options
 
-Modify the `input_data` dictionary to customize the scraper:
+You can modify the `input_data` dictionary to highly customize the scraper's behavior:
 
-- **Search by User**: Use `@username` in `searchQuery`.
-- **Filter by Date**: Add date range parameters.
+- **Search by User**: Add `"from:username"` to the `searchTerms` list.
+- **Filter by Date**: Add `"since:2024-01-01 until:2024-02-01"` to your search terms.
+- **Specific Media**: Toggle `onlyImage`, `onlyVideo`, or `onlyQuote` to `True`.
 
 ---
 
-## Handling Results
+## Handling and Exporting Results
 
-The scraper outputs JSON data. You can process it or export it using libraries like `pandas`:
+The scraper outputs raw JSON data which is perfect for APIs, but for data analysis, you likely want a tabular format. You can easily process the results using the `pandas` library:
 
 ```python
 import pandas as pd
 
-# Convert results to a DataFrame
-df = pd.DataFrame(results["items"])
-
-# Save to a CSV file
-df.to_csv("twitter_data.csv", index=False)
+# Assuming 'results' contains the list of dictionaries from the dataset
+if results:
+    # Convert results to a pandas DataFrame
+    df = pd.DataFrame(results)
+    
+    # Select only the most relevant columns to keep the file clean
+    columns_to_keep = ["id", "text", "createdAt", "retweetCount", "likeCount", "viewCount", "url"]
+    df = df[[col for col in columns_to_keep if col in df.columns]]
+    
+    # Save to a CSV file
+    df.to_csv("twitter_data.csv", index=False)
+    print("Data successfully saved to twitter_data.csv")
 ```
 
 ---
