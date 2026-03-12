@@ -265,3 +265,9 @@ The output for each user will be incredibly detailed. Here is a sample of what t
 That's it\! In just four simple steps, you've gone from a list of URLs to a structured dataset ready for analysis. You can now use this process to gather data on influencers, competitors, or any public TikTok profile of interest.
 
 While using URLs is easy and effective, the **TikTok User Info API** offers other ways to target profiles, such as by `usernames` or `userIds`. In our next post, we'll take a deep dive into every input option to help you master this powerful tool.
+
+## Related Articles
+
+* 📖 [Introducing the TikTok User Info API]({{ site.baseurl }}/apify/tiktok/data-extraction/2025/09/12/introducing-titkok-user-info-api-profile-data.html) — Overview and key benefits
+* 🔍 [How to Scrape TikTok User Profiles Using the Apify SDK]({{ site.baseurl }}/web-scraping/nodejs/2026/03/07/scraping-tiktok-users-apify.html) — Node.js programmatic approach with filtering
+* 🤖 [Automate TikTok Data Extraction with n8n]({{ site.baseurl }}/n8n/automation/tiktok/scraper/2026/03/12/automate-tiktok-data-extraction-with-n8n.html) — No-code workflow automation

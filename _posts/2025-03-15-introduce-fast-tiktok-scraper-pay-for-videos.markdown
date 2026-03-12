@@ -61,6 +61,11 @@ Unlock the power of TikTok data with the Fast TikTok Scraper by Apify. Head over
 Start scraping smarter, not harder!
 
 
+## Related Articles
+
+* 📖 [Guide: How to Scrape Trending Videos with Fast TikTok Scraper]({{ site.baseurl }}/TikTok/Data-Scraping/Tutorial/2025/03/15/how-to-scrape-trending-video-with-fast-tiktok-scraper.html) — Step-by-step tutorial for scraping trends
+* 🤖 [Automate TikTok Data Extraction with n8n]({{ site.baseurl }}/n8n/automation/tiktok/scraper/2026/03/12/automate-tiktok-data-extraction-with-n8n.html) — No-code workflow automation
+
 ***
 **Looking for data extraction tools?**  
 Check out our [comprehensive collection of no-code scrapers and APIs]({{ site.baseurl }}/tools/) for TikTok, X.com, and more.

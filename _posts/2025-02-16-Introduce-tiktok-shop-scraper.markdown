@@ -20,13 +20,19 @@ you valuable insights into the TikTok Shop ecosystem.
 
 ### Key Features and Usage
 
-* Search by Keyword: Find products related to any keyword.  This is invaluable for competitor analysis, identifying niche markets, and discovering products of interest. Simply provide the keyword as input.  For instance, searching for "winter jackets" will return a list of relevant products.
-* 
-* Sort Results: Sort results by price (ascending or descending), best sellers, or relevance. This enables you to quickly identify trending items or find products within a specific price range. Use the sortType parameter with values like PRICE_ASC, PRICE_DESC, BEST_SELLERS, and RELEVANCE.
-* 
-* Filter by Region: Specify a two-letter country code (e.g., US, VN) to filter results. This helps you understand regional trends and product popularity. Use the region parameter to set the desired country code.
-* 
-* Detailed Product Information: Retrieve comprehensive product details, including price, seller information, reviews, and more. The scraper returns a dataset where each product is a separate entry, containing all available information.
+* **Search by Keyword:** Find products related to any keyword. This is invaluable for competitor analysis, identifying niche markets, and discovering products of interest. Simply provide the keyword as input. For instance, searching for "winter jackets" will return a list of relevant products.
+* **Sort Results:** Sort results by price (ascending or descending), best sellers, or relevance. This enables you to quickly identify trending items or find products within a specific price range. Use the sortType parameter with values like PRICE_ASC, PRICE_DESC, BEST_SELLERS, and RELEVANCE.
+* **Filter by Region:** Specify a two-letter country code (e.g., US, VN) to filter results. This helps you understand regional trends and product popularity. Use the region parameter to set the desired country code.
+* **Detailed Product Information:** Retrieve comprehensive product details, including price, seller information, reviews, and more. The scraper returns a dataset where each product is a separate entry, containing all available information.
+
+### Real-World Use Cases
+
+Here are some practical ways businesses use TikTok Shop data:
+
+* **Dropshipping Product Research:** Identify trending products with high demand and low competition. Use the `BEST_SELLERS` sort to find products that are already selling well.
+* **Competitive Pricing Analysis:** Compare your product prices against competitors in the same niche. Sort by `PRICE_ASC` or `PRICE_DESC` to understand the price range for specific product categories.
+* **Market Entry Strategy:** Use the `region` filter to research product demand in different markets before expanding your store to a new country.
+* **Trend Monitoring:** Run periodic scrapes for your target keywords to track how product trends evolve over time.
 
 
 ### Technical Details and Usage

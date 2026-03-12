@@ -170,6 +170,13 @@ Start scraping Twitter data today!  This Actor provides a powerful, flexible, an
 Twitter data extraction needs.
 
 
+## Related Guides
+
+Explore more ways to extract data from X.com (Twitter):
+
+* 🐍 [Using Twitter X Scraper with Python]({{ site.baseurl }}/python/scraping/2025/03/16/using-twitter-x-scraper-with-python.html) — Complete Python integration with pandas export
+* 🖱️ [Scraping X.com Without Writing Code (2025)]({{ site.baseurl }}/blog/2025/how-to-scrape-x-twitter-without-writing-code) — No-code guide for non-developers
+
 ***
 **Looking for data extraction tools?**  
 Check out our [comprehensive collection of no-code scrapers and APIs]({{ site.baseurl }}/tools/) for TikTok, X.com, and more.

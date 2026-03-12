@@ -118,6 +118,14 @@ Web scraping is a powerful tool, but it comes with its fair share of challenges.
 using the right tools and techniques, you can overcome them and extract the data you need.
 
 
+## Related Articles
+
+Dive deeper into specific topics covered in this overview:
+
+* 🔐 [Conquering CAPTCHAs: A Web Scraper's Guide]({{ site.baseurl }}/tiktok/scraper/2025/02/18/how-to-bypass-captcha.html) — Deep dive into CAPTCHA bypass strategies
+* 🐍 [Streamlining Web Automation with the Apify Client]({{ site.baseurl }}/tiktok/scraper/2025/02/17/how-to-use-apify-client.html) — Working with datasets, key-value stores, and more
+* 🔄 [Navigating Container Migration in Apify Actor Runs]({{ site.baseurl }}/blog/apify-actor-container-migration-data-reliability) — Ensuring data reliability in long-running scrapes
+
 ***
 **Looking for data extraction tools?**  
 Check out our [comprehensive collection of no-code scrapers and APIs]({{ site.baseurl }}/tools/) for TikTok, X.com, and more.

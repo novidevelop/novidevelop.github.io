@@ -88,6 +88,11 @@ Container migration is a reality of cloud-based platforms like Apify. By underst
 We encourage you to leverage our tools and best practices to optimize your Apify workflows.
 
 
+## Related Articles
+
+* 🛡️ [Web Scraping Challenges and Solutions]({{ site.baseurl }}/tiktok/scraper/2025/02/19/web-scraping-challenges-and-solutions.html) — Overview of common scraping obstacles including rate limiting and data storage
+* 🐍 [Streamlining Web Automation with the Apify Client]({{ site.baseurl }}/tiktok/scraper/2025/02/17/how-to-use-apify-client.html) — Using the Apify Client with datasets and key-value stores
+
 ***
 **Looking for data extraction tools?**  
 Check out our [comprehensive collection of no-code scrapers and APIs]({{ site.baseurl }}/tools/) for TikTok, X.com, and more.

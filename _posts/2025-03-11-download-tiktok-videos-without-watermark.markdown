@@ -134,6 +134,14 @@ choice. Choose the method that best suits your needs, and always remember to res
 service.
 
 
+## Related Tutorials
+
+Want to explore more TikTok download methods with code examples? Check out these step-by-step guides:
+
+* #️⃣ [Download TikTok Videos by Hashtag (Node.js)]({{ site.baseurl }}/tiktok/scraper/2025/02/22/scrape-tiktok-hashtag-videos-and-download.html) — Download by specific hashtags with code
+* 📈 [Download Trending TikTok Videos (Node.js)]({{ site.baseurl }}/tiktok/scraper/2025/02/23/download-trending-tiktok-videos-easily-with-fast-tiktok-api.html) — Programmatically download viral content
+* 🔍 [Download TikTok Videos by Keyword (Node.js)]({{ site.baseurl }}/tiktok/scraper/2025/02/24/apify-tiktok-search-api-download-videos-by-keyword.html) — Search and download by keyword
+
 ***
 **Looking for data extraction tools?**  
 Check out our [comprehensive collection of no-code scrapers and APIs]({{ site.baseurl }}/tools/) for TikTok, X.com, and more.

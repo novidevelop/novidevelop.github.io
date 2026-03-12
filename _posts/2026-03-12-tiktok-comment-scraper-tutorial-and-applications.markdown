@@ -130,6 +130,11 @@ With the **TikTok Comment Scraper** and fewer than 50 lines of Python code, you 
 
 Start building your automated data pipeline today!
 
+## Related Articles
+
+* 💬 [Tutorial: Analyzing TikTok Comments with Fast TikTok API]({{ site.baseurl }}/tiktok/data-extraction/tutorial/comments/2025/03/10/fast-tiktok-api-comment-scraping-guide.html) — Alternative approach using the Fast TikTok API's COMMENT input
+* 🤖 [Automate TikTok Data Extraction with n8n]({{ site.baseurl }}/n8n/automation/tiktok/scraper/2026/03/12/automate-tiktok-data-extraction-with-n8n.html) — No-code workflow automation for TikTok data
+
 ***
 **Looking for data extraction tools?**  
 Check out our [comprehensive collection of no-code scrapers and APIs]({{ site.baseurl }}/tools/) for TikTok, X.com, and more.

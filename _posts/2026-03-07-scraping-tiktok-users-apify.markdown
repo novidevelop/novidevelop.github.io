@@ -126,6 +126,14 @@ Ready to try it yourself? Check out the [TikTok User Search Actor on Apify](http
 ---
 
 
+## Related Articles
+
+Want to explore more TikTok user data tools? Check out these guides:
+
+* 📖 [Introducing the TikTok User Info API]({{ site.baseurl }}/apify/tiktok/data-extraction/2025/09/12/introducing-titkok-user-info-api-profile-data.html) — Overview of the profile data extraction tool
+* 🚀 [How to Scrape TikTok User Profiles in 5 Minutes]({{ site.baseurl }}/apify/tiktok/how-to/tutorial/2025/09/12/how-to-scrape-tiktok-user-profiles-in-5-minutes.html) — No-code quickstart guide
+* 🤖 [Automate TikTok Data Extraction with n8n]({{ site.baseurl }}/n8n/automation/tiktok/scraper/2026/03/12/automate-tiktok-data-extraction-with-n8n.html) — Workflow automation
+
 ***
 **Looking for data extraction tools?**  
 Check out our [comprehensive collection of no-code scrapers and APIs]({{ site.baseurl }}/tools/) for TikTok, X.com, and more.

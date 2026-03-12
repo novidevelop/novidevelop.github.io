@@ -104,6 +104,12 @@ interact with the Apify platform. By leveraging the Apify Client, you can stream
 improve efficiency, and focus on building powerful web automation solutions.
 
 
+## Related Articles
+
+* 🛡️ [Web Scraping Challenges and Solutions]({{ site.baseurl }}/tiktok/scraper/2025/02/19/web-scraping-challenges-and-solutions.html) — Common obstacles and how to overcome them
+* 📈 [Riding the TikTok Wave: Identifying Trending Videos]({{ site.baseurl }}/tiktok/scraper/2025/02/17/riding-tiktok-wave-trending-videos-api.html) — Use the Apify Client with TikTok trend data
+* 🔄 [Navigating Container Migration in Apify Actor Runs]({{ site.baseurl }}/blog/apify-actor-container-migration-data-reliability) — Advanced: ensure data reliability in long-running scrapes
+
 ***
 **Looking for data extraction tools?**  
 Check out our [comprehensive collection of no-code scrapers and APIs]({{ site.baseurl }}/tools/) for TikTok, X.com, and more.

@@ -112,7 +112,7 @@ const downloadVideo = async (videoUrl, destinationPath) => {
     }
 }
 
-const crapAndDownloadByHashtag = async (hashtag) => {
+const scrapeAndDownloadByHashtag = async (hashtag) => {
     const {defaultDatasetId} = await client.actor('novi/fast-tiktok-api').call(
         {
             "region": "GB",
@@ -132,7 +132,7 @@ const crapAndDownloadByHashtag = async (hashtag) => {
     await Promise.all(tasks)
 }
 
-crapAndDownloadByHashtag("[https://www.tiktok.com/tag/fyp](https://www.tiktok.com/tag/fyp)")
+scrapeAndDownloadByHashtag("[https://www.tiktok.com/tag/fyp](https://www.tiktok.com/tag/fyp)")
     .then(() => console.log("Finish"))
 ```
 
@@ -140,7 +140,7 @@ crapAndDownloadByHashtag("[https://www.tiktok.com/tag/fyp](https://www.tiktok.co
 
 1. **API Token:** Open `tiktok_downloader.js` and replace the empty string in `token: ''` with your actual Apify API
    token from Step 1.
-2. **Hashtag:** In the last line of the code, `crapAndDownloadByHashtag("https://www.tiktok.com/tag/fyp")`, you can
+2. **Hashtag:** In the last line of the code, `scrapeAndDownloadByHashtag("https://www.tiktok.com/tag/fyp")`, you can
    change `"https://www.tiktok.com/tag/fyp"` to any TikTok hashtag URL you want to download videos from. For example, to
    download videos from the hashtag `#travel`, you would use `"https://www.tiktok.com/tag/travel"`.
 3. **Download Folder:** The script will create a folder named `download` in the same directory as your script to store
@@ -194,10 +194,10 @@ Let's break down the code to understand what's happening:
   the `destinationPath`. It uses `https.get` to fetch the video and `fs.createWriteStream` to save it as a file. Error
   handling is included to manage download failures.
 
-* **`crapAndDownloadByHashtag` Function:**
+* **`scrapeAndDownloadByHashtag` Function:**
 
   ```js
-  const crapAndDownloadByHashtag = async (hashtag) => { ... }
+  const scrapeAndDownloadByHashtag = async (hashtag) => { ... }
   ```
 
   This is the main function that orchestrates the process:
@@ -229,11 +229,11 @@ Let's break down the code to understand what's happening:
 * **Run the Script:**
 
   ```js
-  crapAndDownloadByHashtag("[https://www.tiktok.com/tag/fyp](https://www.tiktok.com/tag/fyp)")
+  scrapeAndDownloadByHashtag("[https://www.tiktok.com/tag/fyp](https://www.tiktok.com/tag/fyp)")
       .then(() => console.log("Finish"))
   ```
 
-  Finally, it calls `crapAndDownloadByHashtag` with the example hashtag URL (`"https://www.tiktok.com/tag/fyp"`) to
+  Finally, it calls `scrapeAndDownloadByHashtag` with the example hashtag URL (`"https://www.tiktok.com/tag/fyp"`) to
   start the process.
 
 ## Conclusion
@@ -242,6 +242,14 @@ Congratulations\! You've successfully used the Fast TikTok API to download TikTo
 provides a basic framework, and you can further explore the Fast TikTok API documentation to discover more features and
 customization options, such as different regions, video limits, and data fields. Happy coding!
 
+
+## Related Tutorials
+
+If you enjoyed this guide, check out these related tutorials for more TikTok download methods:
+
+* 📈 [Download Trending TikTok Videos with Fast TikTok API]({{ site.baseurl }}/tiktok/scraper/2025/02/23/download-trending-tiktok-videos-easily-with-fast-tiktok-api.html) — Download what's currently viral
+* 🔍 [Download TikTok Videos by Keyword using Search API]({{ site.baseurl }}/tiktok/scraper/2025/02/24/apify-tiktok-search-api-download-videos-by-keyword.html) — Search and download by keyword
+* 🚫 [Download TikTok Videos Without Watermark]({{ site.baseurl }}/download-tiktok-videos-no-watermark) — The complete watermark-free guide
 
 ***
 **Looking for data extraction tools?**  

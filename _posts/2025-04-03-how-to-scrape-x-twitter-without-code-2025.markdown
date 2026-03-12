@@ -186,6 +186,13 @@ you need for your research, analysis, and business intelligence endeavors. Start
 today!
 
 
+## Related Guides
+
+Want to go deeper with code? Check out these developer-focused X.com tutorials:
+
+* 📖 [Tutorial: Scrape Twitter Data with Tweet X.com Scraper]({{ site.baseurl }}/twitter/x/scraper/data-extraction/tutorial/2025/03/08/tutorial-scrape-twitter-data-apify-tweet-xcom-scraper.html) — Detailed guide with advanced search operators
+* 🐍 [Using Twitter X Scraper with Python]({{ site.baseurl }}/python/scraping/2025/03/16/using-twitter-x-scraper-with-python.html) — Complete Python integration with pandas export
+
 ***
 **Looking for data extraction tools?**  
 Check out our [comprehensive collection of no-code scrapers and APIs]({{ site.baseurl }}/tools/) for TikTok, X.com, and more.

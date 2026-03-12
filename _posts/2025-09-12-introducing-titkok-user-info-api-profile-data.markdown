@@ -44,3 +44,9 @@ Ready to harness the power of TikTok data? The TikTok User Info API is now avail
 Stay tuned for our next post, where we’ll provide a step-by-step quickstart guide to help you run your first data extraction task in under five minutes.
 
 **[➡️ Try the TikTok User Info API on the Apify Store Now](https://apify.com/novi/tiktok-user-info-api?fpr=7hce1m)**
+
+## Related Articles
+
+* 🚀 [How to Scrape TikTok User Profiles in 5 Minutes]({{ site.baseurl }}/apify/tiktok/how-to/tutorial/2025/09/12/how-to-scrape-tiktok-user-profiles-in-5-minutes.html) — Step-by-step quickstart guide
+* 🤖 [Automate TikTok Data Extraction with n8n]({{ site.baseurl }}/n8n/automation/tiktok/scraper/2026/03/12/automate-tiktok-data-extraction-with-n8n.html) — No-code workflow automation
+* 🔍 [How to Scrape TikTok User Profiles Using the Apify SDK]({{ site.baseurl }}/web-scraping/nodejs/2026/03/07/scraping-tiktok-users-apify.html) — Node.js programmatic approach

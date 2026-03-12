@@ -144,6 +144,13 @@ if results:
 Using this guide, you can effectively scrape and process data from Twitter using the Twitter X Scraper and Python. Happy coding!
 
 
+## Related Guides
+
+Explore more ways to extract data from X.com (Twitter):
+
+* 📖 [Tutorial: Scrape Twitter Data with Tweet X.com Scraper]({{ site.baseurl }}/twitter/x/scraper/data-extraction/tutorial/2025/03/08/tutorial-scrape-twitter-data-apify-tweet-xcom-scraper.html) — Step-by-step guide with advanced search operators
+* 🖱️ [Scraping X.com Without Writing Code (2025)]({{ site.baseurl }}/blog/2025/how-to-scrape-x-twitter-without-writing-code) — No-code guide for non-developers
+
 ***
 **Looking for data extraction tools?**  
 Check out our [comprehensive collection of no-code scrapers and APIs]({{ site.baseurl }}/tools/) for TikTok, X.com, and more.

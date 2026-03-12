@@ -44,27 +44,45 @@ TikTok's trending landscape.
 ### Example Usage
 
 ```python
-import apify
+from apify_client import ApifyClient
+from collections import Counter
 
-async def main():
-    async with apify.Client(token="YOUR_API_KEY") as client:
-        actor = client.actor("novi/fast-tiktok-api")
+# Initialize the client with your API token
+client = ApifyClient("YOUR_API_TOKEN")
 
-        # Fetch trending videos
-        run = await actor.call(input={"type": "TREND", "region": "US", "limit": 100})
+# Fetch trending videos from the US
+run = client.actor("novi/fast-tiktok-api").call(run_input={
+    "type": "TREND",
+    "region": "US",
+    "limit": 100
+})
 
-        # Get the results from the dataset
-        dataset = client.dataset(run["defaultDatasetId"])
-        items = await dataset.list_items()
+# Get the results from the dataset
+items = client.dataset(run["defaultDatasetId"]).list_items().items
 
-        # Analyze video data and identify trends
-        #...
+# Analyze: Find the most common hashtags among trending videos
+all_hashtags = []
+for video in items:
+    hashtags = video.get("text_extra", [])
+    for tag in hashtags:
+        if tag.get("hashtag_name"):
+            all_hashtags.append(tag["hashtag_name"].lower())
 
-apify.main(main)
+top_hashtags = Counter(all_hashtags).most_common(10)
+print("🔥 Top Trending Hashtags:")
+for hashtag, count in top_hashtags:
+    print(f"  #{hashtag}: {count} videos")
 ```
 
-This script demonstrates how to fetch trending videos using the Fast TikTok API. Further analysis can be performed on
-the retrieved data to identify trends and patterns.
+This script demonstrates how to fetch trending videos and perform a basic hashtag frequency analysis — a simple but powerful way to identify emerging trends.
+
+### Beyond Basic Analysis
+
+Once you have the trending video data, you can take your analysis further:
+
+* **Engagement Rate Calculation:** Compare likes, shares, and comments relative to view count to find videos with unusually high engagement — these indicate content that resonates deeply with audiences.
+* **Sound/Music Trend Detection:** Track which sounds are repeatedly used across trending videos to predict the next viral audio clip.
+* **Cross-Regional Comparison:** Run the same analysis across multiple regions (US, GB, JP) to discover localized trends and identify content that transcends borders.
 
 ### Conclusion
 
@@ -72,6 +90,10 @@ The [**Fast TikTok API**](https://apify.com/novi/fast-tiktok-api?fpr=7hce1m) emp
 This system can be a valuable asset for content creators, marketers, and anyone seeking to understand and leverage the
 power of TikTok's trends.
 
+## Related Articles
+
+* 🐍 [Streamlining Web Automation with the Apify Client]({{ site.baseurl }}/tiktok/scraper/2025/02/17/how-to-use-apify-client.html) — Learn how to use the Apify Client for various automation tasks
+* 📥 [Download Trending TikTok Videos (Node.js)]({{ site.baseurl }}/tiktok/scraper/2025/02/23/download-trending-tiktok-videos-easily-with-fast-tiktok-api.html) — Step-by-step video download guide
 
 ***
 **Looking for data extraction tools?**  

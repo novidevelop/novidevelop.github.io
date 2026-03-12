@@ -81,6 +81,23 @@ Note that `region`, `keyword`, `sortType`, `publishTime`, and `urls` are *not* u
 * **Rate Limits:**  TikTok has rate limits to prevent abuse. If you're making a large number of requests, you may need
   to implement delays or use multiple API keys.
 
+## Conclusion
+
+The Fast TikTok API's `USER` input is a direct way to collect public data about a specific TikTok creator's content. By
+providing the correct profile URL and managing the `limit` and `isUnlimited` options, you can efficiently build datasets
+for competitor analysis, influencer research, and content strategy planning.
+
+## Related Guides in This Series
+
+This guide is part of a comprehensive series covering every scraping type in the Fast TikTok API. Explore the others:
+
+* 📖 [Complete Guide to All Scraping Types]({{ site.baseurl }}/tiktok/api/tutorial/data-extraction/guide/2025/03/10/fast-tiktok-api-input-guide-complation.html) — The full index
+* 🔍 [SEARCH Input Guide]({{ site.baseurl }}/tiktok/data-extraction/tutorial/2025/03/10/a-guide-to-fast-tiktok-api-input.html) — Search videos by keyword
+* 📈 [TREND Input Guide]({{ site.baseurl }}/tiktok/data-extraction/tutorial/trends/2025/03/10/fast-tiktok-api-trend-scraping-guide.html) — Discover trending videos by region
+* #️⃣ [HASHTAG Input Guide]({{ site.baseurl }}/tiktok/data-extraction/tutorial/hashtag/2025/03/10/fast-tiktok-api-hashtag-scraping-tutorial.html) — Scrape videos by hashtag
+* 🎵 [MUSIC Input Guide]({{ site.baseurl }}/tiktok/data-extraction/tutorial/music/sound/2025/03/10/fast-tiktok-api-music-sound-scraping.html) — Find videos by sound
+* 🎬 [VIDEO Input Guide]({{ site.baseurl }}/tiktok/data-extraction/tutorial/video/2025/03/10/fast-tiktok-api-video-scraping-by-url.html) — Scrape specific videos by URL
+* 💬 [COMMENT Input Guide]({{ site.baseurl }}/tiktok/data-extraction/tutorial/comments/2025/03/10/fast-tiktok-api-comment-scraping-guide.html) — Analyze video comments
 
 ***
 **Looking for data extraction tools?**  

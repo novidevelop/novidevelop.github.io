@@ -240,6 +240,14 @@ Remember to check out the [Fast TikTok API page on Apify](https://apify.com/novi
 Now you can use these downloaded videos for your projects, learning, or just for fun.  Happy downloading!
 
 
+## Related Tutorials
+
+Looking for other ways to download TikTok videos? Check out these guides:
+
+* #️⃣ [Download TikTok Videos by Hashtag]({{ site.baseurl }}/tiktok/scraper/2025/02/22/scrape-tiktok-hashtag-videos-and-download.html) — Download by specific hashtags
+* 🔍 [Download TikTok Videos by Keyword using Search API]({{ site.baseurl }}/tiktok/scraper/2025/02/24/apify-tiktok-search-api-download-videos-by-keyword.html) — Search and download by keyword
+* 🚫 [Download TikTok Videos Without Watermark]({{ site.baseurl }}/download-tiktok-videos-no-watermark) — The complete watermark-free guide
+
 ***
 **Looking for data extraction tools?**  
 Check out our [comprehensive collection of no-code scrapers and APIs]({{ site.baseurl }}/tools/) for TikTok, X.com, and more.

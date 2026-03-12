@@ -92,6 +92,18 @@ options, you can effectively gather valuable data for your projects. Remember to
 mindful of TikTok's rate limits.
 
 
+## Related Guides in This Series
+
+This guide is part of a comprehensive series covering every scraping type in the Fast TikTok API. Explore the others:
+
+* 📖 [Complete Guide to All Scraping Types]({{ site.baseurl }}/tiktok/api/tutorial/data-extraction/guide/2025/03/10/fast-tiktok-api-input-guide-complation.html) — The full index
+* 🔍 [SEARCH Input Guide]({{ site.baseurl }}/tiktok/data-extraction/tutorial/2025/03/10/a-guide-to-fast-tiktok-api-input.html) — Search videos by keyword
+* 📈 [TREND Input Guide]({{ site.baseurl }}/tiktok/data-extraction/tutorial/trends/2025/03/10/fast-tiktok-api-trend-scraping-guide.html) — Discover trending videos by region
+* 👤 [USER Input Guide]({{ site.baseurl }}/tiktok/data-extraction/tutorial/user-profile/2025/03/10/fast-tiktok-api-user-profile-scraping.html) — Gather user profile videos
+* 🎵 [MUSIC Input Guide]({{ site.baseurl }}/tiktok/data-extraction/tutorial/music/sound/2025/03/10/fast-tiktok-api-music-sound-scraping.html) — Find videos by sound
+* 🎬 [VIDEO Input Guide]({{ site.baseurl }}/tiktok/data-extraction/tutorial/video/2025/03/10/fast-tiktok-api-video-scraping-by-url.html) — Scrape specific videos by URL
+* 💬 [COMMENT Input Guide]({{ site.baseurl }}/tiktok/data-extraction/tutorial/comments/2025/03/10/fast-tiktok-api-comment-scraping-guide.html) — Analyze video comments
+
 ***
 **Looking for data extraction tools?**  
 Check out our [comprehensive collection of no-code scrapers and APIs]({{ site.baseurl }}/tools/) for TikTok, X.com, and more.

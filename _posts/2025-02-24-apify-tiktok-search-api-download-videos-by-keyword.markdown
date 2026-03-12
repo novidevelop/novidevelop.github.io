@@ -283,6 +283,14 @@ Congratulations! You have successfully built a simple TikTok video downloader us
 Feel free to explore the [Apify TikTok Search API](https://apify.com/novi/tiktok-search-api?fpr=7hce1m) further and customize the code to fit your specific needs. You can modify search parameters, add more error handling, or integrate this functionality into larger projects. Happy downloading!
 
 
+## Related Tutorials
+
+Explore more ways to download and work with TikTok videos:
+
+* #️⃣ [Download TikTok Videos by Hashtag]({{ site.baseurl }}/tiktok/scraper/2025/02/22/scrape-tiktok-hashtag-videos-and-download.html) — Download by specific hashtags
+* 📈 [Download Trending TikTok Videos]({{ site.baseurl }}/tiktok/scraper/2025/02/23/download-trending-tiktok-videos-easily-with-fast-tiktok-api.html) — Download what's currently viral
+* 🚫 [Download TikTok Videos Without Watermark]({{ site.baseurl }}/download-tiktok-videos-no-watermark) — The complete watermark-free guide
+
 ***
 **Looking for data extraction tools?**  
 Check out our [comprehensive collection of no-code scrapers and APIs]({{ site.baseurl }}/tools/) for TikTok, X.com, and more.
