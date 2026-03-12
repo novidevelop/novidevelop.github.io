@@ -2,6 +2,7 @@
 layout: post
 title: "How to Scrape TikTok User Profiles Using the Apify SDK"
 date: 2026-03-07 10:00:00 +0700
+description: "Scrape TikTok user profiles by keyword using the Apify SDK and Node.js. Filter by followers, verification status, and region with the TikTok User Search Actor."
 categories: [web-scraping, nodejs]
 tags: [apify, tiktok, javascript, automation]
 author: "Novi Team - Plato"

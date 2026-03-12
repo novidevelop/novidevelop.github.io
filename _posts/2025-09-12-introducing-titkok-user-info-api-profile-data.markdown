@@ -2,6 +2,7 @@
 layout: post
 title: Introducing the TikTok User Info API - Your New Solution for Effortless Profile Data Extraction
 date: '2025-09-12'
+description: "Introducing the TikTok User Info API — extract profile data, follower counts, engagement metrics, and bio info from any public TikTok profile."
 categories: [apify, tiktok, data-extraction]
 tags: [tiktok api, tiktok scraper, web scraping, user data, profile scraper, developer tools, automation]
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "Tutorial: A guide to Fast TikTok API's SEARCH Input"
 date: 2025-03-10 01:00:00 +0000
+description: "Learn how to use the Fast TikTok API SEARCH input to find videos by keyword. Covers all parameters including region, date range, sorting, and result limits."
 categories: [ tiktok, data-extraction, tutorial ]
 ---
 

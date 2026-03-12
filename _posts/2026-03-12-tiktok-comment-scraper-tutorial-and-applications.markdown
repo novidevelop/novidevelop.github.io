@@ -2,6 +2,7 @@
 layout: post
 title: "Tutorial: Scraping TikTok Comments & Customer Sentiment Analysis"
 date: 2026-03-12 10:00:00 +0700
+description: "Scrape TikTok comments with Python for customer sentiment analysis. Complete tutorial with code to extract, export, and analyze comment data from any video."
 categories: [Python, Scraping, TikTok, Data Analysis]
 ---
 

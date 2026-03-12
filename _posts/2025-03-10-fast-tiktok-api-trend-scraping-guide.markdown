@@ -2,6 +2,7 @@
 layout: post
 title: "Tutorial: A Guide to Fast TikTok API's TREND Input"
 date: 2025-03-10 01:00:00 +0000
+description: "Discover trending TikTok content by region with the Fast TikTok API TREND input. Configure country codes, limits, and unlimited mode for trend analysis."
 categories: [ tiktok, data-extraction, tutorial, trends ]
 ---
 

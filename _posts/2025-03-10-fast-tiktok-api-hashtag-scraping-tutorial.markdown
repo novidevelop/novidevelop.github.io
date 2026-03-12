@@ -2,6 +2,7 @@
 layout: post
 title: "Tutorial: Mastering Hashtag Scraping with Fast TikTok API"
 date: 2025-03-10 01:10:00 +0000
+description: "Tutorial on scraping TikTok videos by hashtag using the Fast TikTok API. Covers all HASHTAG input parameters with practical examples."
 categories: [ tiktok, data-extraction, tutorial, hashtag ]
 ---
 

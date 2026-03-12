@@ -2,6 +2,7 @@
 layout: post
 title: "Tutorial: Scraping User Videos with Fast TikTok API"
 date: 2025-03-10 01:20:00 +0000
+description: "Scrape a TikTok creator's videos using the Fast TikTok API USER input. Configure profile URLs, set limits, and build datasets for competitor analysis."
 categories: [ tiktok, data-extraction, tutorial, user-profile ]
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "TikTok Shop Scraper: Unearth Trending Products and Analyze the Market"
 date: 2025-02-16 14:05:30 +0700
+description: "Discover the TikTok Shop Scraper on Apify — search products by keyword, sort by price or best sellers, and filter by region for competitive e-commerce research."
 categories: [tiktok, scraper]
 ---
 

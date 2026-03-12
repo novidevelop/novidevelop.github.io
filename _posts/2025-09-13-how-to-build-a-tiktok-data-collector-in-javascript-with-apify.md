@@ -2,6 +2,7 @@
 layout: post
 title: "How to Build a TikTok Data Collector in JavaScript with Apify"
 date: 2025-09-13 00:15:12 +0700
+description: "Build a TikTok data collector in JavaScript with the Apify API client. Complete Node.js tutorial to run scrapers programmatically and process results."
 categories: [ tiktok, data-extraction, tutorial, trends ]
 tags:
   - "TikTok Scraper"
@@ -11,7 +12,7 @@ tags:
   - "web-scraping"
 ---
 
-In our [previous post](/2025/09/13/how-to-scrape-tiktok-data-a-guide-to-the-ultimate-tiktok-scraper.html), we explored how to use the **[TikTok Scraper](https://apify.com/novi/tiktok-scraper-ultimate?fpr=7hce1m)** directly from the Apify Console. While using the console is perfect for manual runs, the true power of automation is unlocked when you integrate scraping into your own applications.
+In our [previous post](/tiktok/data-extraction/tutorial/trends/2025/09/13/how-to-scrape-tiktok-data-a-guide-to-the-ultimate-tiktok-scraper.html), we explored how to use the **[TikTok Scraper](https://apify.com/novi/tiktok-scraper-ultimate?fpr=7hce1m)** directly from the Apify Console. While using the console is perfect for manual runs, the true power of automation is unlocked when you integrate scraping into your own applications.
 
 Today, we'll take the next step and show you how to build a simple data collector in JavaScript. Using the **Apify API client for JavaScript**, you can run the TikTok Scraper, configure its input, and retrieve the data programmatically—all within a Node.js environment.
 

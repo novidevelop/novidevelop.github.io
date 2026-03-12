@@ -2,6 +2,7 @@
 layout: post 
 title: "Fast TikTok API: The Complete Guide to All Scraping Types"
 date: 2025-03-10 09:00:00 +0000  # Adjust date/time as needed
+description: "Complete reference for all Fast TikTok API scraping types — SEARCH, TREND, HASHTAG, USER, MUSIC, VIDEO, and COMMENT — with links to detailed guides."
 categories: [ tiktok, api, tutorial, data-extraction, guide ]
 ---
 

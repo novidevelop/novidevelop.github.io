@@ -2,6 +2,7 @@
 layout: post
 title: "Tutorial: Download TikTok Videos by Hashtag Using Fast TikTok API"
 date: 2025-02-22 17:15:30 +0700
+description: "Step-by-step Node.js tutorial to scrape TikTok videos by hashtag and download them locally using the Fast TikTok API. Full code included."
 categories: [ tiktok, scraper ]
 ---
 

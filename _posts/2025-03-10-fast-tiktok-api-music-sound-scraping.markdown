@@ -2,6 +2,7 @@
 layout: post
 title: "Tutorial: Extracting TikTok Videos by Music with Fast TikTok API"
 date: 2025-03-10 01:30:00 +0000
+description: "Extract TikTok videos by music/sound using the Fast TikTok API MUSIC input. Learn to find trending audio content and analyze viral sounds."
 categories: [ tiktok, data-extraction, tutorial, music, sound ]
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Riding the TikTok Wave: Using the Fast TikTok API to Identify Trending Videos"
 date: 2025-02-17 14:05:30 +0700
+description: "Use the Fast TikTok API to programmatically fetch trending videos by region. Includes a working Python example with hashtag frequency analysis."
 categories: [ tiktok, scraper ]
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "How to Download TikTok Videos by Keyword using Apify TikTok Search API"
 date: 2025-02-24 08:15:00 +0700
+description: "Search TikTok by keyword and download videos using the Apify TikTok Search API with Node.js. Includes full working code and customization tips."
 categories: [ tiktok, scraper ]
 ---
 

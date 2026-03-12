@@ -2,6 +2,7 @@
 layout: post
 title: "How to Scrape TikTok Data: A Guide to the Ultimate TikTok Scraper"
 date: 2025-09-13 00:09:04 +0700
+description: "Learn how to use the TikTok Scraper on Apify to extract video data, search by keyword, and download videos without watermarks. Includes step-by-step setup guide."
 categories: [ tiktok, data-extraction, tutorial, trends ]
 tags:
   - "TikTok Scraper"

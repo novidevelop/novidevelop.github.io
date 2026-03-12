@@ -2,6 +2,7 @@
 layout: post
 title: "Tutorial: Analyzing TikTok Comments with Fast TikTok API"
 date: 2025-03-10 01:50:00 +0000
+description: "Guide to scraping TikTok comments using the Fast TikTok API COMMENT input. Learn all parameters for extracting comment data from any video."
 categories: [ tiktok, data-extraction, tutorial, comments ]
 ---
 

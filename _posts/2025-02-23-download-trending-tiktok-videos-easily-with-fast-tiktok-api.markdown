@@ -2,6 +2,7 @@
 layout: post
 title: "Download Trending TikTok Videos Easily with Fast TikTok API"
 date: 2025-02-23 08:15:00 +0700
+description: "Download trending TikTok videos programmatically with the Fast TikTok API and Node.js. Complete tutorial with code for fetching and saving video files."
 categories: [ tiktok, scraper ]
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Automate TikTok Data Extraction with n8n Community Nodes"
 date: 2026-03-12 08:00:00 +0700
+description: "Install and use n8n community nodes for TikTok data extraction. Automate competitor analysis, hashtag monitoring, and content archiving without coding."
 categories: [ n8n, automation, tiktok, scraper ]
 tags: [n8n, web scraping, tiktok api, tiktok scraper, automation, low code, no code]
 ---

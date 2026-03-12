@@ -2,6 +2,7 @@
 layout: post
 title: "Using Twitter X Scraper with Python"
 date: 2025-03-16 08:15:00 +0700
+description: "Complete Python guide to scraping Twitter/X.com data using Apify's Tweet Scraper. Export results to CSV and pandas DataFrames for analysis."
 categories: [Python, Scraping]
 ---
 

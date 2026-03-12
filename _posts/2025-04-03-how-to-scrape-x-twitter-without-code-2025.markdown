@@ -2,6 +2,7 @@
 layout: post
 title: "Scraping X.com (Twitter) in 2025 Without Writing Code"
 date: 2025-04-03
+description: "Extract Twitter/X.com data without coding using Apify's no-code scraper. Step-by-step guide covering setup, search filters, and export to CSV or JSON."
 categories: [web-scraping, no-code, data-extraction, x.com, twitter, apify]
 tags: [web scraping, twitter scraping, x.com scraping, no code, data extraction, apify]
 permalink: /blog/2025/how-to-scrape-x-twitter-without-writing-code

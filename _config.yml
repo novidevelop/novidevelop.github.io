@@ -47,6 +47,11 @@ webmaster_verifications:
 
 # Build settings
 theme: minima
+minima:
+  nav_pages:
+    - about.markdown
+    - tools.markdown
+    - categories.markdown
 #remote_theme: jekyll/minima@43f3ed0
 plugins:
   - jekyll-feed

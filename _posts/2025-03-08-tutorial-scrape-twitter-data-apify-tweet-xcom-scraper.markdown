@@ -2,6 +2,7 @@
 layout: post
 title: "Tutorial: Scrape Twitter Data with Apify's Tweet X.com Scraper"
 date: 2025-03-08 10:00:00 +0000
+description: "Complete tutorial on scraping Twitter data with Apify Tweet X.com Scraper. Learn advanced search operators, output formats, and integration options."
 categories: [ twitter, x, scraper, data-extraction, tutorial ]
 ---
 

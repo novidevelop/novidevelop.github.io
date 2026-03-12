@@ -2,6 +2,7 @@
 layout: post
 title: "Tutorial: Scraping Specific TikTok Videos with Fast TikTok API"
 date: 2025-03-10 01:40:00 +0000
+description: "Scrape specific TikTok videos by URL using the Fast TikTok API VIDEO input. Includes Python code example and tips for bulk video data extraction."
 categories: [ tiktok, data-extraction, tutorial, video ]
 ---
 

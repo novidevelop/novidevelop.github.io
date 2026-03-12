@@ -2,6 +2,7 @@
 layout: post
 title: "Streamlining Web Automation with the Apify Client"
 date: 2025-02-17 23:05:30 +0700
+description: "Learn how to use the Apify Client to manage actors, datasets, key-value stores, and request queues for efficient web scraping automation."
 categories: [ tiktok, scraper ]
 ---
 

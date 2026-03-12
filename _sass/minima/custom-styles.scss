@@ -1,0 +1,21 @@
+.breadcrumb {
+  font-size: 0.85em;
+  color: #6c757d;
+  margin-bottom: 1.5em;
+  padding: 0.5em 0;
+  border-bottom: 1px solid #e9ecef;
+
+  a {
+    color: #0d6efd;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  .breadcrumb-sep {
+    margin: 0 0.4em;
+    color: #adb5bd;
+  }
+}
