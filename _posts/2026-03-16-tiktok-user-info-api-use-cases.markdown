@@ -2,7 +2,7 @@
 layout: post
 title:  "Unlocking Data Solutions with TikTok User Info API: 3 Practical Use Cases"
 date:   2026-03-16 10:00:00 +0700
-categories: [TikTok, API, Data Scraping]
+categories: [TikTok, API, Data-Scraping]
 tags: [apify, tiktok user info API, data extraction, lead generation]
 ---
 
