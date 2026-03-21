@@ -5,6 +5,7 @@ date:   2026-03-21 23:49:09 +0700
 categories: [Web Scraping, Python, Data Engineering]
 tags: [zillow, python, playwright, httpx, data extraction, real estate scraping]
 permalink: /zillow-python-web-scraping-guide/
+image: /images/zillow-python-web-scraping-guide.png
 ---
 
 Extracting real estate data from Zillow requires navigating sophisticated anti-bot measures and dynamic front-end architectures. This guide outlines the technical implementation for building a resilient scraper using **Python**, focusing on **HTTP/2** requests, **JSON parsing**, and **headless browser** integration. We will walk through everything from environment setup to actual code deployment.
