@@ -8,6 +8,8 @@ description: "Build a robust data stack for social media without writing code. T
 image: /images/thumbnail_analytics_1775318688176.png
 ---
 
+![Blog Thumbnail](/images/thumbnail_analytics_1775318688176.png)
+
 Gathering raw social metrics is essentially useless without a mechanism to synthesize them. To extract actionable intelligence from platforms like TikTok, you must string together an automated pipeline that continually scrapes, normalizes, and visualizing the data feed. 
 
 This guide demonstrates how to construct a Modern Data Stack for TikTok—without requiring a software engineering background or writing custom Python scripts.

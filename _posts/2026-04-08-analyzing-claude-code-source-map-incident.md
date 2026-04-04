@@ -8,6 +8,8 @@ description: "A postmortem review of the March 2026 Claude Code artifact leak. L
 image: /images/thumbnail_source_map_1775318669204.png
 ---
 
+![Blog Thumbnail](/images/thumbnail_source_map_1775318669204.png)
+
 The March 2026 leak of Anthropic’s Claude Code CLI tool serves as a fascinating case study in both the complexity of AI orchestration and the fragility of modern deployment pipelines. The incident, which inadvertently exposed the underlying "Agentic Harness," offers a unique postmortem opportunity for systems engineers to reflect on bundling configurations and autonomous software architecture.
 
 Let's dissect the root cause of the exposure and extract the key engineering lessons from the resulting codebase dump.

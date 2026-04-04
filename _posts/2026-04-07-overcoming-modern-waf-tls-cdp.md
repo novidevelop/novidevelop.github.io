@@ -8,6 +8,8 @@ description: "Learn how to navigate stringent Web Application Firewalls by maste
 image: /images/thumbnail_waf_evasion_1775318648810.png
 ---
 
+![Blog Thumbnail](/images/thumbnail_waf_evasion_1775318648810.png)
+
 Extracting data from properties protected by enterprise Web Application Firewalls (WAFs) like DataDome, Cloudflare, or Akamai is a complex game of cat-and-mouse. Attempting naive HTTP requests typically results in immediate CAPTCHA challenges or silent IP bans. To reliably bypass these systems, engineers must meticulously control their network behavior and browser fingerprints.
 
 Here is a technical overview of how to defeat modern passive and active bot detection mechanisms.
