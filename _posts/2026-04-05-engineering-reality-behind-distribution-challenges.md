@@ -43,6 +43,7 @@ To gather high-fidelity engineering insights, you need robust observability:
 
 ## Why Deep Products Distribute Themselves
 
-When you engineer a system that solves an undeniably hard problem flawlessly, your distribution model essentially flips. Instead of spending exorbitant amounts on customer acquisition (CAC) for a commodity wrapper, your product benefits from organic advocacy.
+When you engineer a system that solves an undeniably hard problem flawlessly, your distribution model essentially flips. Instead of spending exorbitant amounts on customer acquisition (CAC) for a commodity wrapper, your product benefits from organic advocacy. For example, purpose-built [data scraping tools](/tools/) that reliably handle anti-bot detection or TikTok API complexity naturally attract users searching for those exact solutions—no ad spend required.
 
 Technical excellence generates organic growth. By tackling complex problems, your application naturally targets niche, high-value search terms and developer circles. Stop agonizing over your marketing channels until you are absolutely certain you have engineered a product with genuine technical depth.
+
