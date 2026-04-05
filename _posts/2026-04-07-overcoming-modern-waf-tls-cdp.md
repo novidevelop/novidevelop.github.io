@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Overcoming Modern WAFs: TLS and CDP Fingerprinting Evasion Guide"
 date: 2026-04-07
 permalink: /security/overcoming-modern-waf-tls-cdp/

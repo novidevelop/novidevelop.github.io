@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "No-Code TikTok Analytics: Setting Up a Data Pipeline"
 date: 2026-04-09
 permalink: /data-engineering/no-code-tiktok-analytics-pipeline/

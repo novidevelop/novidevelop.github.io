@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Design Patterns for Robust Web Scraping Ingestions"
 date: 2026-04-06
 permalink: /data-engineering/design-patterns-robust-web-scraping/

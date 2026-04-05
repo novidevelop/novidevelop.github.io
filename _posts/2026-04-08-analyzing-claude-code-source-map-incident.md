@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Analyzing the Claude Code Source Map Incident"
 date: 2026-04-08
 permalink: /systems-engineering/analyzing-claude-code-source-map-incident/

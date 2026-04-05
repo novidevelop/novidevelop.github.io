@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "The Engineering Reality Behind Tech Distribution Challenges"
 date: 2026-04-05
 permalink: /product-engineering/distribution-challenges-engineering-reality/
