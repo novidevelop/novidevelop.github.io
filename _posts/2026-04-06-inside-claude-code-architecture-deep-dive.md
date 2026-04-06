@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Inside Claude Code: A Developer's Deep Dive into AI Architecture"
-date: 2026-04-10
+date: 2026-04-06
 permalink: /ai-engineering/inside-claude-code-architecture-deep-dive/
 tags: [AI Agents, Software Engineering, Architecture, Claude Code]
 author: Novi Develop
