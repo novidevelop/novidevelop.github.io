@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Claude Code Architecture (Part 3): End-to-End Context & Memory Subsystems"
-date: 2026-04-06
+date: 2026-04-06 12:00:00 +0700
 permalink: /engineering/claude-code-context-memory-subsystems/
 tags: [Data Persistence, Memory Management, LLM Scaling, System Design]
 author: Novi Develop

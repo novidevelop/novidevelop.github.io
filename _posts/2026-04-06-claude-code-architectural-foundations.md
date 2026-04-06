@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Claude Code Architecture (Part 1): Foundations & Fast-Path Routing"
-date: 2026-04-06
+date: 2026-04-06 10:00:00 +0700
 permalink: /engineering/claude-code-architectural-foundations/
 tags: [Software Architecture, Node.js, System Design, LLM Tools]
 author: Novi Develop

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Claude Code Architecture (Part 2): Engineering Agentic Search Engine"
-date: 2026-04-06
+date: 2026-04-06 11:00:00 +0700
 permalink: /engineering/claude-code-agentic-search-grep/
 tags: [Ripgrep, C++, Backend Engineering, Agentic Search]
 author: Novi Develop
