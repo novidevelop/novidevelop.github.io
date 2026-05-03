@@ -42,7 +42,7 @@ Modern extraction from dynamic platforms requires an architecture that transcend
 
 
 
-To build a resilient pipeline, engineers must **decouple the data acquisition layer** from storage. Utilizing a managed API or dedicated infrastructure (like the `novi/tiktok-scraper-ultimate` Actor on Apify) provides a scalable vector.
+To build a resilient pipeline, engineers must **decouple the data acquisition layer** from storage. Utilizing a managed API or dedicated infrastructure (like the **[TikTok Scraper Ultimate](https://apify.com/novi/tiktok-scraper-ultimate?fpr=7hce1m)** Actor on Apify) provides a scalable vector.
 
 ### Analyzing the Target Extraction Schema
 Configuring the extraction layer requires precise mapping of JSON input to business outcomes:
