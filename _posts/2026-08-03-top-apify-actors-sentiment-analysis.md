@@ -41,15 +41,15 @@ Customer feedback on e-commerce and review platforms provides direct insights in
 
 Social media channels offer real-time sentiment data, revealing viral trends, audience engagement, and emerging crisis signals.
 
-### 🌟 TikTok Scraper (`clockworks/tiktok-scraper` & `xtdata/tiktok-comment-scraper`)
-- **Primary Use Case:** Gen-Z sentiment analysis, viral campaign tracking, and comment feedback loop.
-- **Key Features:** Extracts video metrics, captions, top comments, comment replies, user profiles, and sound IDs.
-- **Why it Matters:** Short-form video platforms carry immense influence. Analyzing comment sections reveals how audiences truly react to product launches and influencer partnerships.
+### 🌟 Fast TikTok Scraper & Comment Scraper (`xtdata/tiktok-scraper` & `xtdata/tiktok-comment-scraper`)
+- **Primary Use Case:** Short-form video comment sentiment, viral campaign tracking, and audience feedback analysis.
+- **Key Features:** High-speed pay-per-result data extraction, video metadata, captions, top comments, nested comment reply chains, and user profile information without complex proxy setup.
+- **Why it Matters:** Built by the Novi / xtdata team, these Actors are optimized for high-reliability scraping at a fraction of the cost, making them ideal for monitoring how audiences react to product launches and influencer campaigns.
 
-### 🌟 Tweet Scraper V2 (`apidojo/tweet-scraper`)
-- **Primary Use Case:** Real-time brand monitoring, crisis detection, and public political/financial sentiment.
-- **Key Features:** High-speed Twitter/X search extraction, reply threads, retweet counts, and customizable search filters.
-- **Why it Matters:** X (Twitter) remains the epicenter of fast-breaking news and public discourse, making high-speed tweet extraction critical for PR teams.
+### 🌟 X.com (Twitter) API Scraper (`xtdata/twitter-x-scraper`)
+- **Primary Use Case:** Real-time brand monitoring, crisis detection, and public sentiment analysis on X.com.
+- **Key Features:** No-code solution to extract historical tweets, replies, user profiles, and keyword/hashtag search results with advanced filtering (Top, Latest, Media).
+- **Why it Matters:** At just ~$0.50 per 1,000 tweets, this xtdata Actor provides an extremely cost-effective way for market researchers and PR teams to extract X.com sentiment data seamlessly.
 
 ### 🌟 All-in-One Social Media Sentiment Tool (`tri_angle/social-media-sentiment-analysis-tool`)
 - **Primary Use Case:** Multi-platform comment scraping with integrated AI sentiment scoring.
