@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Top Apify Actors for Sentiment Analysis in 2026: Reviews, Social Media & AI Tools"
-date: 2026-08-03 10:00:00 +0700
+date: 2026-08-02 10:00:00 +0700
 permalink: /sentiment-analysis/top-apify-actors-sentiment-analysis/
 categories: [Sentiment Analysis, Apify, Web Scraping, AI]
 tags: [Apify Actors, Sentiment Analysis, TikTok Scraper, Twitter Scraper, Google Reviews Scraper, Data Pipeline]
