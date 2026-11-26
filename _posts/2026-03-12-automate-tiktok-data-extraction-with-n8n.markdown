@@ -66,8 +66,6 @@ Follow these simple steps:
 
 Once the installation is complete, you can open any workflow, click the **+** button to add a new node, and search for "TikTok". You will see your newly installed nodes ready for action!
 
-![n8n TikTok Nodes Installation]({{ site.baseurl }}/images/n8n-community-nodes-install.png) *(Note: Placeholder image - you should attach a screenshot of the n8n community nodes screen here)*
-
 ---
 
 ## Wrapping Up
